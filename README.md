@@ -1,6 +1,6 @@
 ### Hi there, I'm 冰的沸点 - [bdfd][website] 👋
 
-## I'm just start My DS Journey, And I am currently work as BI Developer and Data Science!!
+## I'm just start My DS Journey, And I am currently work as BI Analyst and Data Scientist!!
 
 - 🔭 I’m currently learning everything 🤣 Data Science
 - 🌱 I’m I just practice my skill and experience using Python & ML lab!
