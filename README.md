@@ -5,8 +5,8 @@
 - 🔭 I’m currently learning everything 🤣 Data Science
 - 🌱 I’m I just practice my skill and experience using Python & ML lab!
 - 👯 I’m looking to collaborate with other person/group focus on DS field
-- 🥅 2021 Goals: Contribute more to Open Source projects on Kaggle/Github
-- ⚡ Fun fact: I love to draw and play guitar and dota2
+- 🥅 2021 Goals: Contribute more to Open Source projects on Github as well as Kaggle DS project
+- ⚡ Fun fact: I love to draw and play guitar and dota2 
 
 [<img align="left" alt="bdfd.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="bdfd | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
