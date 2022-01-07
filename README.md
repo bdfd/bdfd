@@ -54,9 +54,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
-[How to Learn Web Development in 2022](https://www.youtube.com/watch?v=xvr7KoW-xjo)
-
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
@@ -66,6 +63,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [First Post](https://dev.to/bdfd/first-post-2gd1)
 <!-- BLOG-POST-LIST:END -->
 
