@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 15:13:16
+ * @LastEditTime: 2022-01-07 15:19:54
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -202,6 +202,16 @@ Last Updated on 07/01/2022
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
+
+---
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+### Feel Free To Fork and Ask Question if YOU GOT ANY ISSUE :\)
+
+</div>
 
 ---
 
