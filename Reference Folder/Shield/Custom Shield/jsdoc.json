@@ -1,0 +1,21 @@
+{
+  "source": {
+    "exclude": [
+      "__snapshots__",
+      "build",
+      "coverage",
+      "logo",
+      "node_modules",
+      "private",
+      "public"
+    ],
+    "excludePattern": ".+\\.(service|spec|tester)\\.js$"
+  },
+  "plugins": ["plugins/markdown"],
+  "opts": {
+    "destination": "api-docs/",
+    "readme": "README.md",
+    "recurse": true,
+    "tutorials": "doc/"
+  }
+}
