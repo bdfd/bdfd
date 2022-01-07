@@ -142,7 +142,7 @@ Recent Github Activity
 ### 🎞 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [Happy Birthday](https://www.youtube.com/watch?v=R1xuFaGZrRQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
