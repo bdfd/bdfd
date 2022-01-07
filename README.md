@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 10:37:26
+ * @LastEditTime: 2022-01-07 11:19:45
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -58,12 +58,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=1.3_Leetcode_SQL_All_Solution)](https://github.com/bdfd/1.3_Leetcode_SQL_All_Solution)
 
-### ⏱️ Recent Github Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 ---
 
 ### 🎞 Latest YouTube Videos
@@ -87,6 +81,12 @@
 ➡️ [more blog posts...][website]
 
 ---
+
+### ⏱️ Recent Github Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 [website]: https://github.com/bdfd
 [gmail]: bdfd2005@gmail.com
