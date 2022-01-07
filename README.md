@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 13:22:34
+ * @LastEditTime: 2022-01-07 13:30:50
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -58,19 +58,34 @@
 
 ### 📊 Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&" alt="bdfd" /></p>
-
 ![bdfd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight)
 
-### 👩‍💻 View More Feature About Github
+Recent Github Activity
+
+<!--START_SECTION:activity-->
+
+1. 🎉 Merged PR [#7](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage/pull/7) in [BDFD-Online-Project/Project_3.0_Leetcode-DemoPage](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage)
+2. 💪 Opened PR [#7](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage/pull/7) in [BDFD-Online-Project/Project_3.0_Leetcode-DemoPage](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage)
+3. ❌ Closed PR [#6](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage/pull/6) in [BDFD-Online-Project/Project_3.0_Leetcode-DemoPage](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage)
+<!--END_SECTION:activity-->
+
+##### 📊 Detail Github Status
 
 <details>
   <summary>Feature Github Project</summary>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdfd" alt="bdfd" /></a> </p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&" alt="bdfd" /></p>
+
+## </details>
+
+##### 👩‍💻 View More Feature About Github
+
+<details>
+  <summary>Feature Github Project</summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=1.3_Leetcode_SQL_All_Solution)](https://github.com/bdfd/1.3_Leetcode_SQL_All_Solution)
 
-</details>
+## </details>
 
 ---
 
@@ -95,14 +110,6 @@
 ➡️ [more blog posts...][website]
 
 ---
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage/pull/7) in [BDFD-Online-Project/Project_3.0_Leetcode-DemoPage](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage)
-2. 💪 Opened PR [#7](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage/pull/7) in [BDFD-Online-Project/Project_3.0_Leetcode-DemoPage](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage)
-3. ❌ Closed PR [#6](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage/pull/6) in [BDFD-Online-Project/Project_3.0_Leetcode-DemoPage](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage)
-<!--END_SECTION:activity-->
-
-<!--End_SECTION:activity-->
 
 ---
 
