@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 10:14:36
+ * @LastEditTime: 2022-01-07 10:17:59
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -19,12 +19,12 @@
 
 ### 📱 Connect with me:
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />   
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />   
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />   
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />    
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />    
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]  
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]  
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]  
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]  
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stack-overflow]
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/6.Website-Action-Icon/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/5.Icon-With-Dark-Background/youtube.svg" />][youtube]
@@ -97,9 +97,12 @@
 ---
 
 [website]: https://github.com/bdfd
+[gmail]: bdfd2005@gmail.com
 [twitter]: https://github.com/bdfd
 [youtube]: https://github.com/bdfd
 [instagram]: https://github.com/bdfd
 [linkedin]: https://github.com/bdfd
+[facebook]: https://github.com/bdfd
 [webdevplaylist]: https://github.com/bdfd
 [github repo]: https://github.com/bdfd
+[stack-overflow]: https://github.com/bdfd
