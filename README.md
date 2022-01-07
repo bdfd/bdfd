@@ -97,6 +97,10 @@
 ---
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#7](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage/pull/7) in [BDFD-Online-Project/Project_3.0_Leetcode-DemoPage](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage)
+2. 💪 Opened PR [#7](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage/pull/7) in [BDFD-Online-Project/Project_3.0_Leetcode-DemoPage](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage)
+3. ❌ Closed PR [#6](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage/pull/6) in [BDFD-Online-Project/Project_3.0_Leetcode-DemoPage](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage)
+<!--END_SECTION:activity-->
 
 <!--End_SECTION:activity-->
 
