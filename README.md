@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-06 19:03:27
+ * @LastEditTime: 2022-01-06 19:08:44
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -65,9 +65,8 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-
 - [My First Post on Dev.to Oh Ho](https://dev.to/bdfd/first-post-2gd1)
+<!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
 
