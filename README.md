@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 14:56:05
+ * @LastEditTime: 2022-01-07 15:13:16
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -15,7 +15,6 @@
 ### Hi there, I'm 冰的沸点 - [🌐 Personal Portfolio][website] 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdfd&label=Profile%20views&color=0e75b6&style=flat" alt="bdfd" /> </p>
-
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
 [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
@@ -44,6 +43,26 @@
 [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stack-overflow]
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
+---
+
+### 📊 Github Stats
+
+<!-- ![bdfd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight) -->
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/bdfd">
+      <img align="left" width=390 height=250 src=https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight alt="bdfd" />
+    </a>
+    <a href="https://github.com/bdfd">
+      <img width=325 height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdfd&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="bdfd"/>
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=bdfd&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+Recent Github Activity
+
 ### 💻 Programming Languages & Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -66,14 +85,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdfd&layout=compact)
 
----
-
-### 📊 Github Stats
-
-![bdfd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight)
-
-Recent Github Activity
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
@@ -84,7 +95,7 @@ Recent Github Activity
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=bdfd&theme=nord&column=7)](https://github.com/bdfd)
 
-[![status-board](https://github-readme-streak-stats.herokuapp.com/?user=bdfd&)](bdfd)
+[![status-board](https://github-readme-streak-stats.herokuapp.com/?user=bdfd&theme=react&border=61dafb&hide_border=true)](https://github.com/bdfd)
 
 <!--START_SECTION:waka-->
 
@@ -191,8 +202,6 @@ Last Updated on 07/01/2022
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
-
----
 
 ---
 
