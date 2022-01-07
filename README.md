@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 14:49:24
+ * @LastEditTime: 2022-01-07 14:56:05
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -23,7 +23,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg) -->
 
-## I'm just start My DS Journey, And I am currently work as BI Analyst and Data Scientist!!
+## I'm just start My DS Journey, And I am currently work as BI and Data Scientist!!
 
 - 🔭 I’m currently learning everything about🤣 Data Science
 - 🌱 I’m I just practice my skill and experience using Python & ML lab!
