@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 14:29:24
+ * @LastEditTime: 2022-01-07 14:49:24
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -11,9 +11,17 @@
   <img src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/3.Signature/BDFD.gif" alt="bdfd" />
   <img src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/4.Stamp/BDFD_Stamp.png" alt="bdfd" />
 </h1>
+
 ### Hi there, I'm 冰的沸点 - [🌐 Personal Portfolio][website] 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdfd&label=Profile%20views&color=0e75b6&style=flat" alt="bdfd" /> </p>
+
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg) -->
 
 ## I'm just start My DS Journey, And I am currently work as BI Analyst and Data Scientist!!
 
@@ -23,7 +31,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects on Github as well as Kaggle DS project
 - 📄 Know about my experiences visit @ [🌐 Personal Portfolio][website]
 - 📝 I regularly write articles on Kaggle and Youtube
-- 💬 Ask me about Python, Node.js, and Vue.js
+- 💬 Ask me about Node.js, and Vue.js
 - 📫 How to reach me at bdfd2005@gmail.com
 - ⚡ Fun fact: I love to draw and play guitar and dota2
 
