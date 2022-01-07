@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 13:06:43
+ * @LastEditTime: 2022-01-07 13:18:19
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -93,6 +93,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
+
+---
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 ---
 
