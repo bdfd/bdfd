@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Github Status Workflow
 
 on:
  schedule:

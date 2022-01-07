@@ -1,4 +1,4 @@
-name: Latest YouTube Video workflow
+name: Youtube Workflow
 on:
  schedule:
   # Runs every hour

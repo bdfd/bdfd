@@ -1,4 +1,4 @@
-name: GitHub Activity Readme
+name: GitHub Activity Workflow
 
 on:
  schedule:
