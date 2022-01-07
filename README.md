@@ -1,13 +1,15 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 13:04:36
+ * @LastEditTime: 2022-01-07 13:06:43
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
 -->
 
 ### Hi there, I'm 冰的沸点 - [🌐 Personal Portfolio][website] 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bdfd&label=Profile%20views&color=0e75b6&style=flat" alt="bdfd" /> </p>
 
 ## I'm just start My DS Journey, And I am currently work as BI Analyst and Data Scientist!!
 
@@ -56,7 +58,6 @@
 
 ### 📊 Github Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bdfd&label=Profile%20views&color=0e75b6&style=flat" alt="bdfd" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&" alt="bdfd" /></p>
 
 ![bdfd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight)
