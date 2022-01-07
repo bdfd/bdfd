@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 12:27:55
+ * @LastEditTime: 2022-01-07 12:58:57
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -15,6 +15,10 @@
 - 🌱 I’m I just practice my skill and experience using Python & ML lab!
 - 👯 I’m looking to collaborate with other person/group focus on DS field
 - 🥅 2021 Goals: Contribute more to Open Source projects on Github as well as Kaggle DS project
+- 📄 Know about my experiences visit @ [🌐 Personal Portfolio][website]
+- 📝 I regularly write articles on Kaggle and Youtube
+- 💬 Ask me about Python, Node.js, and Vue.js
+- 📫 How to reach me at bdfd2005@gmail.com
 - ⚡ Fun fact: I love to draw and play guitar and dota2
 
 ### 📱 Connect with me:
@@ -52,11 +56,21 @@
 
 ### 📊 Github Stats
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bdfd&label=Profile%20views&color=0e75b6&style=flat" alt="bdfd" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&" alt="bdfd" /></p>
+
 ![bdfd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight)
 
-### 👩‍💻 Feature Repository
+### 👩‍💻 View More Feature About Github
 
+<details>
+  <summary>Feature Github Project</summary>
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdfd" alt="bdfd" /></a> </p>
+
+Feature Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=1.3_Leetcode_SQL_All_Solution)](https://github.com/bdfd/1.3_Leetcode_SQL_All_Solution)
+
+</details>
 
 ---
 
@@ -79,17 +93,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
-
----
-
-### ⏱️ Recent Github Activity
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-</details>
 
 ---
 
