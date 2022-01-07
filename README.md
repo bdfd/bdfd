@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 13:18:19
+ * @LastEditTime: 2022-01-07 13:22:34
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -96,9 +96,9 @@
 
 ---
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:activity-->
 
-<!--END_SECTION:waka-->
+<!--End_SECTION:activity-->
 
 ---
 
