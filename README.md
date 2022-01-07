@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 11:59:05
+ * @LastEditTime: 2022-01-07 12:02:56
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -86,13 +86,15 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage/pull/7) in [BDFD-Online-Project/Project_3.0_Leetcode-DemoPage](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage)
-2. 💪 Opened PR [#7](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage/pull/7) in [BDFD-Online-Project/Project_3.0_Leetcode-DemoPage](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage)
-3. ❌ Closed PR [#6](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage/pull/6) in [BDFD-Online-Project/Project_3.0_Leetcode-DemoPage](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage)
-4. 💪 Opened PR [#6](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage/pull/6) in [BDFD-Online-Project/Project_3.0_Leetcode-DemoPage](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage)
-5. ❌ Closed PR [#5](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage/pull/5) in [BDFD-Online-Project/Project_3.0_Leetcode-DemoPage](https://github.com/BDFD-Online-Project/Project_3.0_Leetcode-DemoPage)
+1. ❗️ Closed issue [#15](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/15) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+2. 🗣 Commented on [#15](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/15) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+3. ❗️ Closed issue [#13](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/13) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+4. 🗣 Commented on [#13](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/13) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+5. 🗣 Commented on [#12](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/12) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
 <!--END_SECTION:activity-->
+
 </details>
 
 ---
