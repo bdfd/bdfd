@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 12:11:07
+ * @LastEditTime: 2022-01-07 12:19:25
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -84,19 +84,9 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bdfd&show_icons=true&hide_border=true" />
 
 ---
 
