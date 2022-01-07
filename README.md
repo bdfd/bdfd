@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 12:58:57
+ * @LastEditTime: 2022-01-07 13:04:36
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -67,7 +67,6 @@
   <summary>Feature Github Project</summary>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdfd" alt="bdfd" /></a> </p>
 
-Feature Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=1.3_Leetcode_SQL_All_Solution)](https://github.com/bdfd/1.3_Leetcode_SQL_All_Solution)
 
 </details>
