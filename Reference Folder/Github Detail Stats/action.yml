@@ -1,0 +1,111 @@
+name: 'Profile Readme Development Stats'
+author: Anmol Pratap Singh
+description: 'Are you an early 🐤 or a night 🦉? When are you most productive during the day? Let''s check out in your readme!'
+
+inputs:
+  GH_TOKEN:
+    description: 'GitHub access token with Repo scope'
+    required: true
+    default: ${{ github.token }}
+
+  WAKATIME_API_KEY:
+    description: 'Your Wakatime API Key'
+    required: true
+
+  SHOW_OS:
+    required: false
+    description: 'Show the list of OS Worked on In dev metrics'
+    default: "True"
+
+  SHOW_PROJECTS:
+    required: false
+    description: 'Show the list of projects worked on in dev metrics'
+    default: "True"
+
+  SHOW_EDITORS:
+    required: false
+    description: 'Show the Editors used in dev metrics'
+    default: "True"
+
+  SHOW_TIMEZONE:
+    required: false
+    description: 'Show the time zone in the dev metrics'
+    default: "True"
+
+  SHOW_COMMIT:
+    required: false
+    description: "Shows the number of commit graph in the dev metrics"
+    default: "True"
+
+  SHOW_LANGUAGE:
+    required: false
+    description: "Show the Coding language used in dev metrics"
+    default: "True"
+
+  SHOW_LINES_OF_CODE:
+    required: false
+    description: "Show the Total Lines of code written Badge till date"
+    default: "False"
+
+  SHOW_LANGUAGE_PER_REPO:
+    required: false
+    description: "Show language or framework used across different repository"
+    default: "True"
+
+  SHOW_LOC_CHART:
+    required: false
+    description: ""
+    default: "True"
+
+  SHOW_DAYS_OF_WEEK:
+    required: false
+    description: "show day of week you are most productive"
+    default: "True"
+
+  SHOW_PROFILE_VIEWS:
+    required: false
+    description: "Shows the current profile views"
+    default: "True"
+
+  SHOW_SHORT_INFO:
+    required: false
+    description: "Shows the short facts"
+    default: "True"
+
+  LOCALE:
+    required: false
+    description: "Show stats in your own language"
+    default: "en"
+
+  COMMIT_BY_ME:
+    required: false
+    description: "Git commit with your own name and email"
+    default: "False"
+
+  IGNORED_REPOS:
+    required: false
+    description: "Repos you don't want to be counted"
+    default: ""
+  
+  COMMIT_MESSAGE:
+    required: false
+    description: "Git commit message"
+    default: "Updated with Dev Metrics"
+  
+  SHOW_UPDATED_DATE:
+    required: false
+    description: "Show updated date"
+    default: "True"
+
+  SHOW_TOTAL_CODE_TIME:
+    required: false
+    description: "Show Total Time you have coded"
+    default: "True"
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+
+branding:
+  icon: 'activity'
+  color: 'orange'
