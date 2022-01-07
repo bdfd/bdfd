@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 15:54:18
+ * @LastEditTime: 2022-01-07 16:15:02
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -110,6 +110,7 @@ Recent Github Activity
 ##### 📊 Recent Github Activity
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 ##### 📊 Detail Github Status
@@ -122,75 +123,6 @@ Recent Github Activity
 [![status-board](https://github-readme-streak-stats.herokuapp.com/?user=bdfd&theme=react&border=61dafb&hide_border=true)](https://github.com/bdfd)
 
 <!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-**🐱 My GitHub Data**
-
-> 🏆 109 Contributions in the Year 2022
->
-> 📦 622.6 kB Used in GitHub's Storage
->
-> 🚫 Not Opted to Hire
->
-> 📜 76 Public Repositories
->
-> 🔑 3 Private Repositories
->
-> **I'm an Early 🐤**
-
-```text
-🌞 Morning    115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.83%
-🌆 Daytime    440 commits    ████████████░░░░░░░░░░░░░   49.11%
-🌃 Evening    248 commits    ███████░░░░░░░░░░░░░░░░░░   27.68%
-🌙 Night      93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38%
-
-```
-
-📅 **I'm Most Productive on Friday**
-
-```text
-Monday       105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.72%
-Tuesday      130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.51%
-Wednesday    155 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.3%
-Thursday     143 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.96%
-Friday       188 commits    █████░░░░░░░░░░░░░░░░░░░░   20.98%
-Saturday     81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.04%
-Sunday       94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.49%
-
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-⌚︎ Time Zone: America/Toronto
-
-💬 Programming Languages:
-No Activity Tracked This Week
-
-🔥 Editors:
-No Activity Tracked This Week
-
-🐱‍💻 Projects:
-No Activity Tracked This Week
-
-💻 Operating System:
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript**
-
-```text
-JavaScript               11 repos            █████████░░░░░░░░░░░░░░░░   36.67%
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
-Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-
-```
-
-Last Updated on 07/01/2022
 
 <!--END_SECTION:waka-->
 
@@ -211,7 +143,6 @@ Last Updated on 07/01/2022
 
 <!-- YOUTUBE:START -->
 
-- [Happy Birthday](https://www.youtube.com/watch?v=R1xuFaGZrRQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
@@ -222,7 +153,6 @@ Last Updated on 07/01/2022
 
 <!-- BLOG-POST-LIST:START -->
 
-- [First Post](https://dev.to/bdfd/first-post-2gd1)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]

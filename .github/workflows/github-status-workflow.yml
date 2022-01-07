@@ -1,10 +1,10 @@
 name: Github Status Workflow
-
 on:
  schedule:
   # Runs at 12am IST
   - cron: '59 23 * * 7'
  workflow_dispatch:
+
 jobs:
  update-readme:
   name: Update Readme with Metrics

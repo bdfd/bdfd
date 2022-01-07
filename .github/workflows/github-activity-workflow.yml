@@ -1,5 +1,4 @@
 name: GitHub Activity Workflow
-
 on:
  schedule:
   - cron: '59 23 * * 7'
