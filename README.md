@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 13:30:50
+ * @LastEditTime: 2022-01-07 13:36:03
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -75,6 +75,8 @@ Recent Github Activity
   <summary>Feature Github Project</summary>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdfd" alt="bdfd" /></a> </p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&" alt="bdfd" /></p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## </details>
 
