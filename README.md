@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-06 19:22:29
+ * @LastEditTime: 2022-01-07 00:03:38
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -54,6 +54,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Happy Birthday](https://www.youtube.com/watch?v=R1xuFaGZrRQ)
 <!-- YOUTUBE:END -->
 
@@ -64,6 +65,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [First Post](https://dev.to/bdfd/first-post-2gd1)
 <!-- BLOG-POST-LIST:END -->
 
@@ -83,7 +85,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="bdfd's GitHub Stats" src="" />
+[![bdfd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdfd)](https://github.com/bdfd)
 
 </details>
 
