@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 00:16:39
+ * @LastEditTime: 2022-01-07 00:27:16
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -45,47 +45,14 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
 <br />
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Happy Birthday](https://www.youtube.com/watch?v=R1xuFaGZrRQ)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [First Post](https://dev.to/bdfd/first-post-2gd1)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...][website]
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### 📕 Github Stats
 
 [![bdfd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight)](https://github.com/bdfd)
 
-</details>
 <br/>
 
 ### 📕 Feature Repository
@@ -98,3 +65,33 @@
 [instagram]: https://github.com/bdfd
 [linkedin]: https://github.com/bdfd
 [webdevplaylist]: https://github.com/bdfd
+
+### 📕 Recent Github Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+- [Happy Birthday](https://www.youtube.com/watch?v=R1xuFaGZrRQ)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...][youtube]
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- [First Post](https://dev.to/bdfd/first-post-2gd1)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...][website]
+
+---
