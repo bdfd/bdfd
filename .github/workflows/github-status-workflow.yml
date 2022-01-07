@@ -1,17 +1,16 @@
-name: Update README
+name: Waka Readme
 
 on:
  schedule:
+  # Runs at 12am IST
   - cron: '59 23 * * *'
  workflow_dispatch:
-
 jobs:
- build:
+ update-readme:
+  name: Update Readme with Metrics
   runs-on: ubuntu-latest
-  name: Update this repo's README with recent activity
-
   steps:
-   - uses: actions/checkout@v2
-   - uses: jamesgeorge007/github-activity-readme@master
-     env:
-      GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+   - uses: anmol098/waka-readme-stats@master
+     with:
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
