@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 10:21:10
+ * @LastEditTime: 2022-01-07 10:37:26
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -52,7 +52,7 @@
 
 ### 📊 Github Stats
 
-[![bdfd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight)]
+![bdfd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight)
 
 ### 👩‍💻 Feature Repository
 
@@ -66,7 +66,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 🎞 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 
