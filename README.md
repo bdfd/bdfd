@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 11:19:45
+ * @LastEditTime: 2022-01-07 11:57:43
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -84,10 +84,12 @@
 
 ### ⏱️ Recent Github Activity
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
-
+</details>
+---
 [website]: https://github.com/bdfd
 [gmail]: bdfd2005@gmail.com
 [twitter]: https://github.com/bdfd
