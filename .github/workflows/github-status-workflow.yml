@@ -15,3 +15,5 @@ jobs:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       SHOW_PROFILE_VIEWS: Flase
       SHOW_LOC_CHART: Flase
+      SHOW_SHORT_INFO: Flase
+      SHOW_PROJECT: Flase
