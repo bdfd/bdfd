@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 12:19:25
+ * @LastEditTime: 2022-01-07 12:22:19
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -79,8 +79,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
-
----
 
 ---
 
