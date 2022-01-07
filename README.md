@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 00:03:38
+ * @LastEditTime: 2022-01-07 00:16:39
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -85,9 +85,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![bdfd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdfd)](https://github.com/bdfd)
+[![bdfd's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight)](https://github.com/bdfd)
 
 </details>
+<br/>
+
+### 📕 Feature Repository
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=1.3_Leetcode_SQL_All_Solution)](https://github.com/bdfd/1.3_Leetcode_SQL_All_Solution)
 
 [website]: https://github.com/bdfd
 [twitter]: https://github.com/bdfd
