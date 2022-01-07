@@ -1,8 +1,7 @@
 name: Blog Post Workflow
 on:
  schedule:
-  # Runs every hour
-  - cron: '59 23 * * *'
+  - cron: '59 23 * * 7'
  workflow_dispatch:
 
 jobs:
