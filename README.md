@@ -1,19 +1,20 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-07 18:19:15
+ * @LastEditTime: 2022-01-08 00:09:44
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
 -->
 
+# Hi there, I'm 冰的沸点
+
+###[🌐Know More About Me][website] 👋
+
 <h1 align="center">
   <img src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/3.Signature/BDFD.gif" alt="bdfd" />
   <img src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/4.Stamp/BDFD_Stamp.png" alt="bdfd" />
 </h1>
-
-### Hi there, I'm 冰的沸点 - [🌐 Personal Portfolio][website] 👋
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdfd&label=Profile%20views&color=0e75b6&style=flat" alt="bdfd" /> </p>
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
 [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
@@ -25,7 +26,7 @@
 ### I'm just start My DS Journey, And I am currently work as BI and Data Scientist!!
 
 - 🔭 I’m currently learning everything about🤣 Data Science
-- 🌱 I’m I just practice my skill and experience using Python & ML lab!
+- 🌱 I’m I just practice my skill and experience using Python, Node.js and Javascript!
 - 👯 I’m looking to collaborate with other person/group focus on DS field
 - 🥅 2021 Goals: Contribute more to Open Source projects on Github as well as some Kaggle DS project
 - 📄 Know about my experiences visit at [🌐 Personal Portfolio][website]
@@ -34,19 +35,16 @@
 - 📫 How to reach me at [My Gmail][gmail]
 - ⚡ Fun fact: I love to draw and play guitar and dota2
 
-### 📊 Github Stats
+### 📊 Github Stats Record
 
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/bdfd">
-      <img align="left" width=390 height=250 src=https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight alt="bdfd github status board" />
-    </a>
-    <a href="https://github.com/bdfd">
-      <img width=390 height=250 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&theme=react&border=61dafb&hide_border=true" alt="bdfd most used language board"/>
-    </a>
-  </div>
-</p>
-Recent Github Activity
+<a href="https://github.com/bdfd">
+  <img align="left" width=390 height=250 src=https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight alt="bdfd github status board" />
+</a>
+<a href="https://github.com/bdfd">
+  <img width=390 height=250 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&theme=react&border=61dafb&hide_border=true" alt="bdfd most used language board"/>
+</a>
+
+---
 
 ### 🛠️ Programming Languages & Tools:
 
@@ -185,7 +183,7 @@ Last Updated on 07/01/2022
 
 ## </details>
 
-##### 👩‍💻 View More Feature About Github
+##### 👩‍💻 View Feature Project at My Github
 
 <details>
   <summary>Feature Github Project</summary>
