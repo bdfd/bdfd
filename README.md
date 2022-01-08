@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-08 13:17:33
+ * @LastEditTime: 2022-01-08 18:35:06
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -72,7 +72,6 @@
 ##### ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 ##### 📊 Detail Github Status
