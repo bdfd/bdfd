@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-08 09:16:56
+ * @LastEditTime: 2022-01-08 09:21:19
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -33,7 +33,6 @@
 ### 📊 Github Stats Record
 
 <img align="left" width=390 height=250 src="https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight" alt="bdfd github status board" />
-
 <img width=390 height=250 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&theme=react&border=61dafb&hide_border=true" alt="bdfd most used language board"/>
 
 ---
@@ -179,6 +178,12 @@ Last Updated on 07/01/2022
 
 <details>
   <summary>Feature Github Project</summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=1.3_Leetcode_SQL_All_Solution&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/bdfd/1.3_Leetcode_SQL_All_Solution)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=1.3_Leetcode_SQL_All_Solution&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/bdfd/1.3_Leetcode_SQL_All_Solution)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=1.3_Leetcode_SQL_All_Solution&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/bdfd/1.3_Leetcode_SQL_All_Solution)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=1.3_Leetcode_SQL_All_Solution&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/bdfd/1.3_Leetcode_SQL_All_Solution)
 
