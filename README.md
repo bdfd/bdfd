@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-08 00:09:44
+ * @LastEditTime: 2022-01-08 00:19:10
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -9,7 +9,8 @@
 
 # Hi there, I'm 冰的沸点
 
-###[🌐Know More About Me][website] 👋
+<!--
+###[🌐Click to Know More About...][website] 👋 -->
 
 <h1 align="center">
   <img src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/3.Signature/BDFD.gif" alt="bdfd" />
@@ -25,15 +26,15 @@
 
 ### I'm just start My DS Journey, And I am currently work as BI and Data Scientist!!
 
-- 🔭 I’m currently learning everything about🤣 Data Science
-- 🌱 I’m I just practice my skill and experience using Python, Node.js and Javascript!
-- 👯 I’m looking to collaborate with other person/group focus on DS field
-- 🥅 2021 Goals: Contribute more to Open Source projects on Github as well as some Kaggle DS project
-- 📄 Know about my experiences visit at [🌐 Personal Portfolio][website]
-- 📝 I regularly write articles on Kaggle and Youtube
+- 🔭 I’m currently learning about🤣 Data Science
+- ⏳ Exploring Google Cloud & AWS
+- 👯 I’m looking to collaborate with other on DS field
+- 🥅 2021 Goals: Contribute more on Github
+- 📄 Know about my at [🌐 My Personal Portfolio][website]
+- 🎯Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - 💬 Ask me about Node.js, and Vue.js
 - 📫 How to reach me at [My Gmail][gmail]
-- ⚡ Fun fact: I love to draw and play guitar and dota2
+- ⚡ Fun fact: I love to attend Conferences for Networking
 
 ### 📊 Github Stats Record
 
@@ -109,64 +110,76 @@
 [![contribution-record](https://activity-graph.herokuapp.com/graph?username=bdfd&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/bdfd)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**I'm an Early 🐤** 
+**🐱 My GitHub Data**
+
+> 🏆 132 Contributions in the Year 2022
+>
+> 📦 622.7 kB Used in GitHub's Storage
+>
+> 🚫 Not Opted to Hire
+>
+> 📜 85 Public Repositories
+>
+> 🔑 3 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
-🌆 Daytime    457 commits    ████████████░░░░░░░░░░░░░   50.0% 
-🌃 Evening    249 commits    ██████░░░░░░░░░░░░░░░░░░░   27.24% 
-🌙 Night      93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.18%
+🌞 Morning    115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.64%
+🌆 Daytime    454 commits    ████████████░░░░░░░░░░░░░   49.89%
+🌃 Evening    248 commits    ██████░░░░░░░░░░░░░░░░░░░   27.25%
+🌙 Night      93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.22%
 
 ```
-📅 **I'm Most Productive on Friday** 
+
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday       105 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
-Tuesday      130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
-Wednesday    155 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
-Thursday     143 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
-Friday       206 commits    █████░░░░░░░░░░░░░░░░░░░░   22.54% 
-Saturday     81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.86% 
-Sunday       94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28%
+Monday       105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
+Tuesday      130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+Wednesday    155 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.03%
+Thursday     143 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.71%
+Friday       202 commits    █████░░░░░░░░░░░░░░░░░░░░   22.2%
+Saturday     81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.9%
+Sunday       94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.33%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: America/Toronto
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               11 repos            █████████░░░░░░░░░░░░░░░░   36.67% 
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+JavaScript               11 repos            █████████░░░░░░░░░░░░░░░░   36.67%
+TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
+Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
 Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
 ```
 
+Last Updated on 07/01/2022
 
-
- Last Updated on 08/01/2022
 <!--END_SECTION:waka-->
 
 ## </details>
@@ -185,6 +198,7 @@ Python                   3 repos             ██░░░░░░░░░�
 ### 🎞 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Happy Birthday](https://www.youtube.com/watch?v=R1xuFaGZrRQ)
 <!-- YOUTUBE:END -->
 
@@ -195,6 +209,7 @@ Python                   3 repos             ██░░░░░░░░░�
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [First Post](https://dev.to/bdfd/first-post-2gd1)
 <!-- BLOG-POST-LIST:END -->
 
