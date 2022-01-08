@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-08 09:14:20
+ * @LastEditTime: 2022-01-08 09:16:56
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -12,8 +12,8 @@
 <p align="left">
   <img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" />
   <img src="https://komarev.com/ghpvc/?username=bdfd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=bdfd.bdfd" alt="Profile Visitor" />
-  <a href="https://dc-personal-portfolio.herokuapp.com/">  
+  <img src="https://visitor-badge.glitch.me/badge?page_id=bdfd.bdfd" alt="Profile Visitor"/>
+  <a href="https://dc-personal-portfolio.herokuapp.com/" target="_blank">  
     <img src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/4.Stamp/Personal_Website.svg" />
   </a>
 </p>
