@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-08 00:19:10
+ * @LastEditTime: 2022-01-08 00:51:28
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -11,7 +11,6 @@
 
 <!--
 ###[🌐Click to Know More About...][website] 👋 -->
-
 <h1 align="center">
   <img src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/3.Signature/BDFD.gif" alt="bdfd" />
   <img src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/4.Stamp/BDFD_Stamp.png" alt="bdfd" />
@@ -92,7 +91,7 @@
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
 </p>
 
-##### 📊 Recent Github Activity
+<!-- ##### 📊 Recent Github Activity -->
 
 <!--START_SECTION:activity-->
 
