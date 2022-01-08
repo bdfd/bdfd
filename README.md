@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-08 08:22:55
+ * @LastEditTime: 2022-01-08 09:14:20
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -9,27 +9,22 @@
 
 # Hi there, I'm 冰的沸点<img height=30 src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/4.Stamp/BDFD_Stamp.png" alt="bdfd" />
 
-<!--
-###[🌐Click to Know More About...][website] 👋 -->
-<h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/3.Signature/BDFD.gif" alt="bdfd" />
-  <img src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/4.Stamp/BDFD_Stamp.png" alt="bdfd" />
-</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bdfd&label=Profile%20views&color=0e75b6&style=flat" alt="bdfd" /> </p>
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg) -->
+<p align="left">
+  <img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=bdfd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=bdfd.bdfd" alt="Profile Visitor" />
+  <a href="https://dc-personal-portfolio.herokuapp.com/">  
+    <img src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/4.Stamp/Personal_Website.svg" />
+  </a>
+</p>
 
-### I'm just start My DS Journey, And I am currently work as BI and Data Scientist!!
+### I Am Currently Work Toward Data Scientist!!
 
 - 🔭 I’m currently learning about🤣 Data Science
-- ⏳ Exploring Google Cloud & AWS
-- 👯 I’m looking to collaborate with other on DS field
 - 🥅 2021 Goals: Contribute more on Github
+- 👯 I’m looking to collaborate with other on DS field
 - 📄 Know about my at [🌐 My Personal Portfolio][website]
+- ⏳ Currently exploring GCP & AWS
 - 🎯Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - 💬 Ask me about Node.js, and Vue.js
 - 📫 How to reach me at [My Gmail][gmail]
@@ -37,12 +32,9 @@
 
 ### 📊 Github Stats Record
 
-<a href="https://github.com/bdfd">
-  <img align="left" width=390 height=250 src=https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight alt="bdfd github status board" />
-</a>
-<a href="https://github.com/bdfd">
-  <img width=390 height=250 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&theme=react&border=61dafb&hide_border=true" alt="bdfd most used language board"/>
-</a>
+<img align="left" width=390 height=250 src="https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight" alt="bdfd github status board" />
+
+<img width=390 height=250 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&theme=react&border=61dafb&hide_border=true" alt="bdfd most used language board"/>
 
 ---
 
@@ -218,11 +210,11 @@ Last Updated on 07/01/2022
 
 <div align="center">
 
-### Thanks For Watch This Repositories!
+# Thanks For Watch This Repositories!
 
-### If You ❤️ It Please Leave A Star!
+# If You ❤️ It Please Leave A Star!
 
-### Feel Free To Fork And Connect Me With Following Links :)
+# Feel Free To Fork And Connect Me(<img height=30 src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/3.Signature/BDFD.gif" alt="BDFD Signature" />) With Following Links :)
 
 </div>
 
