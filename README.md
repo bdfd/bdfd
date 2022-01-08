@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-08 13:03:50
+ * @LastEditTime: 2022-01-08 13:05:04
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -166,9 +166,6 @@ Last Updated on 07/01/2022
 <div align="center">
   <a href="https://github.com/bdfd/Project01_Resume_Blog_Template">
     <img alt="Leetcode SQL All Soluion" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Project01_Resume_Blog_Template&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
-  </a>
-  <a href="https://github.com/bdfd/Project02_Leetcode_SQL_All_Solution">
-    <img alt="coverage-badges-cli" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Project02_Leetcode_SQL_All_Solution&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
   </a>
   <a href="https://github.com/bdfd/Project02_Leetcode_SQL_All_Solution">
     <img alt="coverage-badges-cli" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Project02_Leetcode_SQL_All_Solution&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
