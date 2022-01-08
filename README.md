@@ -109,76 +109,64 @@
 [![contribution-record](https://activity-graph.herokuapp.com/graph?username=bdfd&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/bdfd)
 
 <!--START_SECTION:waka-->
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**🐱 My GitHub Data**
-
-> 🏆 132 Contributions in the Year 2022
->
-> 📦 622.7 kB Used in GitHub's Storage
->
-> 🚫 Not Opted to Hire
->
-> 📜 85 Public Repositories
->
-> 🔑 3 Private Repositories
->
-> **I'm an Early 🐤**
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.64%
-🌆 Daytime    454 commits    ████████████░░░░░░░░░░░░░   49.89%
-🌃 Evening    248 commits    ██████░░░░░░░░░░░░░░░░░░░   27.25%
-🌙 Night      93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.22%
+🌞 Morning    115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
+🌆 Daytime    457 commits    ████████████░░░░░░░░░░░░░   50.0% 
+🌃 Evening    249 commits    ██████░░░░░░░░░░░░░░░░░░░   27.24% 
+🌙 Night      93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.18%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       105 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
+Tuesday      130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
+Wednesday    155 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
+Thursday     143 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
+Friday       206 commits    █████░░░░░░░░░░░░░░░░░░░░   22.54% 
+Saturday     81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.86% 
+Sunday       94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28%
 
 ```
 
-📅 **I'm Most Productive on Friday**
 
-```text
-Monday       105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
-Tuesday      130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
-Wednesday    155 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.03%
-Thursday     143 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.71%
-Friday       202 commits    █████░░░░░░░░░░░░░░░░░░░░   22.2%
-Saturday     81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.9%
-Sunday       94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.33%
-
-```
-
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/Toronto
 
-💬 Programming Languages:
+💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors:
+🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects:
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
-💻 Operating System:
+💻 Operating System: 
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript**
+**I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            █████████░░░░░░░░░░░░░░░░   36.67%
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
-Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
+JavaScript               11 repos            █████████░░░░░░░░░░░░░░░░   36.67% 
+TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
 Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
 ```
 
-Last Updated on 07/01/2022
 
+
+ Last Updated on 08/01/2022
 <!--END_SECTION:waka-->
 
 ## </details>
@@ -197,7 +185,6 @@ Last Updated on 07/01/2022
 ### 🎞 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Happy Birthday](https://www.youtube.com/watch?v=R1xuFaGZrRQ)
 <!-- YOUTUBE:END -->
 
@@ -208,7 +195,6 @@ Last Updated on 07/01/2022
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [First Post](https://dev.to/bdfd/first-post-2gd1)
 <!-- BLOG-POST-LIST:END -->
 
