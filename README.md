@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-08 09:21:19
+ * @LastEditTime: 2022-01-08 09:50:35
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -28,7 +28,7 @@
 - 🎯Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - 💬 Ask me about Node.js, and Vue.js
 - 📫 How to reach me at [My Gmail][gmail]
-- ⚡ Fun fact: I love to attend Conferences for Networking
+- ⚡ Fun fact: I ❤️ Front End Developement and Fun Boy of Vue.js
 
 ### 📊 Github Stats Record
 
@@ -178,6 +178,13 @@ Last Updated on 07/01/2022
 
 <details>
   <summary>Feature Github Project</summary>
+<a href="https://github.com/jaywcjlove/markdown-to-html-cli">
+  <img alt="markdown-to-html-cli" src="https://github-readme-stats.vercel.app/api/pin/?username=jaywcjlove&repo=markdown-to-html-cli&show_owner=true" />
+</a>
+
+<a href="https://github.com/jaywcjlove/coverage-badges-cli">
+  <img alt="coverage-badges-cli" src="https://github-readme-stats.vercel.app/api/pin/?username=jaywcjlove&repo=coverage-badges-cli&show_owner=true" />
+</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=1.3_Leetcode_SQL_All_Solution&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/bdfd/1.3_Leetcode_SQL_All_Solution)
 
@@ -215,11 +222,11 @@ Last Updated on 07/01/2022
 
 <div align="center">
 
-# Thanks For Watch This Repositories!
+### Thanks For Watch This Repositories!
 
-# If You ❤️ It Please Leave A Star!
+### If You ❤️ It Please Leave A Star!
 
-# Feel Free To Fork And Connect Me(<img height=30 src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/3.Signature/BDFD.gif" alt="BDFD Signature" />) With Following Links :)
+### Feel Free To Fork And Connect Me(<img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/3.Signature/BDFD.gif" alt="BDFD Signature" />) With Following Links :)
 
 </div>
 
