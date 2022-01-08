@@ -235,7 +235,7 @@ Last Updated on 07/01/2022
 ---
 
 [website]: https://github.com/bdfd
-[gmail]: bdfd2005@gmail.com
+[gmail]: mailto:bdfd2005@gmail.com
 [twitter]: https://github.com/bdfd
 [youtube]: https://github.com/bdfd
 [instagram]: https://github.com/bdfd
