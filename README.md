@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-08 23:40:23
+ * @LastEditTime: 2022-01-09 10:33:30
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -77,6 +77,11 @@
     <img alt="bdfd most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&theme=react&border=61dafb&hide_border=true" />
   </a>
 
+<details>
+  <summary>Github Activity</summary>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:waka-->
+</details>
 <details>
   <summary>Github Detail Analysis</summary>
 
@@ -187,6 +192,7 @@ Last Updated on 09/01/2022
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [VS code Make Your Work EZ as It Should Be](https://www.youtube.com/watch?v=WZnO3KWQT9c)
 <!-- YOUTUBE:END -->
 
@@ -197,6 +203,7 @@ Last Updated on 09/01/2022
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [First Post](https://dev.to/bdfd/first-post-2gd1)
 <!-- BLOG-POST-LIST:END -->
 
