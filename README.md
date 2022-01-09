@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-08 23:38:49
+ * @LastEditTime: 2022-01-08 23:40:23
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -30,7 +30,7 @@
 - 🎯Life Hack: "Explore 🔥 and Explode 💣
 - 💬 Ask me about Node.js, and Vue.js
 - 📫 How to reach me at [My Gmail][gmail]
-- ⚡ ❤️ Front End & Vue.js fanboy
+- ❤️ Front End & Vue.js fanboy
 
 ---
 
