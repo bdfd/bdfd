@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-08 19:01:42
+ * @LastEditTime: 2022-01-08 22:46:28
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -17,6 +17,8 @@
     <img src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/4.Stamp/Personal_Website.svg" />
   </a>
 </p>
+
+<img align="right" alt="Keep Learning" src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/8.Cool-Animation/Keep_Coding.gif"/>
 
 ### I Am Currently Work Toward Data Scientist!!
 
@@ -86,62 +88,62 @@
 [![contribution-record](https://activity-graph.herokuapp.com/graph?username=bdfd&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/bdfd)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.01% 
-🌆 Daytime    457 commits    ████████████░░░░░░░░░░░░░   48.72% 
-🌃 Evening    256 commits    ██████░░░░░░░░░░░░░░░░░░░   27.29% 
+🌞 Morning    122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.01%
+🌆 Daytime    457 commits    ████████████░░░░░░░░░░░░░   48.72%
+🌃 Evening    256 commits    ██████░░░░░░░░░░░░░░░░░░░   27.29%
 🌙 Night      103 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.98%
 
 ```
-📅 **I'm Most Productive on Friday** 
+
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday       102 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
-Tuesday      132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
-Wednesday    160 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.06% 
-Thursday     135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.39% 
-Friday       203 commits    █████░░░░░░░░░░░░░░░░░░░░   21.64% 
-Saturday     118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
+Monday       102 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.87%
+Tuesday      132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.07%
+Wednesday    160 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.06%
+Thursday     135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.39%
+Friday       203 commits    █████░░░░░░░░░░░░░░░░░░░░   21.64%
+Saturday     118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.58%
 Sunday       88 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: America/Toronto
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   34.48% 
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69% 
-Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   34.48%
+TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69%
+Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79%
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79%
 Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79%
 
 ```
 
+Last Updated on 09/01/2022
 
-
- Last Updated on 09/01/2022
 <!--END_SECTION:waka-->
 
 ## </details>
@@ -184,6 +186,7 @@ Python                   4 repos             ███░░░░░░░░�
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Happy Birthday](https://www.youtube.com/watch?v=R1xuFaGZrRQ)
 <!-- YOUTUBE:END -->
 
@@ -194,6 +197,7 @@ Python                   4 repos             ███░░░░░░░░�
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [First Post](https://dev.to/bdfd/first-post-2gd1)
 <!-- BLOG-POST-LIST:END -->
 
