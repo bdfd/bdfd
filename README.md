@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-08 22:52:14
+ * @LastEditTime: 2022-01-08 23:06:24
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -66,17 +66,16 @@
 
 ---
 
-### 📊 Github Stats Record
-
-<img align="left" width=390 height=250 src="https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight" alt="bdfd github status board" />
-<img width=390 height=250 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&theme=react&border=61dafb&hide_border=true" alt="bdfd most used language board"/>
-
-##### ⚡ Recent Github Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### ⚡ Github Features
 
 ##### 📊 Detail Github Status
+
+<a href="https://github.com/bdfd/Project01_Resume_Blog_Template">
+    <img src="https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight" alt="bdfd github status board"  />
+  </a>
+  <a href="https://github.com/bdfd/Project02_Leetcode_SQL_All_Solution">
+    <img alt="bdfd most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&theme=react&border=61dafb&hide_border=true" />
+  </a>
 
 <details>
   <summary>Github Detail Analysis</summary>
