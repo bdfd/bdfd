@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-08 23:16:00
+ * @LastEditTime: 2022-01-08 23:38:49
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -22,15 +22,15 @@
 
 ### I Am Currently Work Toward Data Scientist!!
 
-- 🔭 I’m currently learning about🤣 Data Science
+- 🔭 Currently learning 🤣Data Science
 - 🥅 2021 Goals: Contribute more on Github
-- 👯 I’m looking to collaborate with other on DS field
-- 📄 Know about my at [🌐 My Personal Portfolio][website]
+- 👯 I’m looking to collaborate with other
+- 📄 Visit on [🌐 My Personal Portfolio][website]
 - ⏳ Currently exploring GCP & AWS
-- 🎯Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
+- 🎯Life Hack: "Explore 🔥 and Explode 💣
 - 💬 Ask me about Node.js, and Vue.js
 - 📫 How to reach me at [My Gmail][gmail]
-- ⚡ Fun fact: I ❤️ Front End Developement and Fun Boy of Vue.js
+- ⚡ ❤️ Front End & Vue.js fanboy
 
 ---
 
