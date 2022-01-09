@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-08 22:46:28
+ * @LastEditTime: 2022-01-08 22:52:14
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -209,7 +209,7 @@ Last Updated on 09/01/2022
 
 ### Thanks For Watch This Repositories!
 
-### If You ❤️ It Please Leave A Star!
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><i>KEEP AWESOME & STAY COOL!</i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### Feel Free To Fork And Connect Me(<img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/3.Signature/BDFD.gif" alt="BDFD Signature" />) With Following Links :)
 
