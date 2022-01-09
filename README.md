@@ -7,7 +7,7 @@
  * @FilePath: \bdfd\README.md
 -->
 
-# Hi there, I'm <i>冰的沸点<i><img height=30 src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/4.Stamp/BDFD_Stamp.png" alt="bdfd" />
+# Hi there, I'm <i>冰的沸点<i> <img height=30 src="https://cdn.jsdelivr.net/gh/bdfd/Img_Repo/4.Stamp/BDFD_Stamp.png" alt="bdfd" />
 
 <p align="left">
   <img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" />
