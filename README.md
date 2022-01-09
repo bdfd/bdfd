@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-08 23:06:24
+ * @LastEditTime: 2022-01-08 23:08:10
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -185,8 +185,6 @@ Last Updated on 09/01/2022
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-
-- [Happy Birthday](https://www.youtube.com/watch?v=R1xuFaGZrRQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
@@ -196,8 +194,6 @@ Last Updated on 09/01/2022
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [First Post](https://dev.to/bdfd/first-post-2gd1)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
