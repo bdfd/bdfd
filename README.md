@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-09 19:36:38
+ * @LastEditTime: 2022-01-09 20:16:34
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -205,6 +205,7 @@ Last Updated on 10/01/2022
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [VS code Make Your Work EZ as It Should Be](https://www.youtube.com/watch?v=WZnO3KWQT9c)
 <!-- YOUTUBE:END -->
 
@@ -242,11 +243,15 @@ Last Updated on 10/01/2022
 
 ---
 
-[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media/My_Website.svg" />][website]
-[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media/LinkedIn.svg" />][linkedin]
-[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media/Facebook.svg" />][facebook]
-[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media/Twitter.svg" />][twitter]
+[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/My_Website.svg" />][website]
+[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/LinkedIn.svg" />][linkedin]
+[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Medium.svg" />][medium]
+[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Dev.to.svg" />][dev.to]
+[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Facebook.svg" />][facebook]
+[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Twitter.svg" />][twitter]
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media/Stack_Overflow.svg" />][stack-overflow]
+[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media/Gmail.svg" />][reddit]
+[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media/Gmail.svg" />][instagram]
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media/Gmail.svg" />][gmail]
 
 ---
@@ -262,5 +267,6 @@ Last Updated on 10/01/2022
 [medium]: https://github.com/bdfd
 [dev.to]: https://github.com/bdfd
 [github repo]: https://github.com/bdfd
+[reddit]: https://github.com/bdfd
 
 Last Update: 2020-01-09
