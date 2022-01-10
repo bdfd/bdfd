@@ -205,7 +205,6 @@ Last Updated on 10/01/2022
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [VS code Make Your Work EZ as It Should Be](https://www.youtube.com/watch?v=WZnO3KWQT9c)
 <!-- YOUTUBE:END -->
 
