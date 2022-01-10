@@ -19,8 +19,7 @@ jobs:
       template: '<a href="$url">
        <img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
        </a>
-       <p>$title</p>
-       <p>$description</p>
-       <p>$date</p>
+       <p>Title: $title</p>
+       <p>Description: $description</p>
+       <p>Upload Date: $date</p>
        '
-      # committer_email: 'alwinjohn231@gmail.com'
