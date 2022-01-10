@@ -17,17 +17,44 @@ jobs:
       custom_tags: 'channelId/yt:channelId/,videoId/yt:videoId/'
       date_format: 'mmm d, yyyy'
       max_post_count: 3
+      # template: '
+      #  &nbsp&nbsp&nbsp<table>
+      #  <tr>
+      #  <td>
+      #  <a href="$url">
+      #  <img width="150px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
+      #  </a>
+      #  </td>$newline<td>
+      #  <h3 color="#333">$title</h3>
+      #  <br/>
+      #  <small color="#888" display="block" margin-top="5px" margin-bottom="8px">$date<small>
+      #  </td>
+      #  </tr>
+      #  </table>$newline'
       template: '
-       &nbsp&nbsp&nbsp<table>
-       <tr>
-       <td>
-       <a href="$url">
-       <img width="150px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
-       </a>
-       </td>$newline<td>
-       <h3 color="#333">$title</h3>
-       <br/>
-       <small color="#888" display="block" margin-top="5px" margin-bottom="8px">$date<small>
-       </td>
-       </tr>
-       </table>$newline'
+      <div height="120px" display="flex" align-items="center">
+        <a height="118px" border="1px solid rgba(0,0,0,.2)"
+          padding="10px 20px"
+          border-radius="10px"
+          background="rgb(255,255,255)";
+          background="linear-gradient(60deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 47%, rgba(246,246,246,1) 50%, rgba(255,255,255,1) 53%, rgba(255,255,255,1) 100%)"
+          background-size="600% 400%"
+          animation="gradientBackground 3s ease infinite"
+          overflow="hidden"
+          text-overflow="ellipsis" display="flex" align-items="center" href="${url}" target="__blank">
+					<img margin-right="10px"
+          width="150px"
+          height="100%"
+          text-decoration="none"
+          color="inherit"
+          object-fit="cover" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"/>
+          <div flex="1">
+            <h3 color="#333">$title</h3>
+            <small color="#888"
+          display="block"
+          margin-top="5px"
+          margin-bottom="8px">${date}</small>
+          </div>
+				</a>
+      </div>
+      '
