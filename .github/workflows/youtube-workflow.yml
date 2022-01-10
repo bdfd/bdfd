@@ -16,7 +16,7 @@ jobs:
       feed_list: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCQsSGjaOtBIjUc9MampMYXA'
       custom_tags: 'channelId/yt:channelId/,videoId/yt:videoId/'
       date_format: 'mmm d, yyyy'
-      max_post_count: 3
+      max_post_count: 4
       template: '
        <table>
        <tr>
