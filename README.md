@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-09 22:34:16
+ * @LastEditTime: 2022-01-09 23:23:20
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -31,6 +31,15 @@
 - 💬 Ask me about Node.js, and Vue.js
 - 📫 How to reach me at [My Gmail][gmail]
 - ❤️ Front End & Vue.js fanboy
+
+<details>
+  <summary><b>✨ More About Me</b></summary>
+  <br/>
+I am a Developer with 3+ years of experience in developing applications and open-source software.
+
+And yet describe more here later on... Keep it update :D
+
+</details>
 
 ---
 
@@ -230,6 +239,7 @@ Last Updated on 10/01/2022
 ##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Dev.to.svg" /> Latest Five Blog Post on dev. to
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Sixth Post](https://dev.to/bdfd2005/sixth-post-41om)
 - [Fifth Post](https://dev.to/bdfd2005/fifth-post-1eda)
 - [Fourth Post](https://dev.to/bdfd2005/fourth-post-2ci9)
