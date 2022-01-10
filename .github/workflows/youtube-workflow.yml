@@ -18,7 +18,7 @@ jobs:
       date_format: 'mmm d, yyyy'
       max_post_count: 3
       template: '
-       &nbsp&nbsp&nbsp<table>
+       <table>
        <tr>
        <td>
        <a href="$url">
@@ -30,4 +30,4 @@ jobs:
        <small color="#888" display="block" margin-top="5px" margin-bottom="8px">$date<small>
        </td>
        </tr>
-       </table>$newline'
+       </table>'
