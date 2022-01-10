@@ -214,7 +214,8 @@ Last Updated on 10/01/2022
 
 ##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/YouTube.svg" /> Latest Five Video on YouTube
 
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WZnO3KWQT9c"><img width="140px" src="https://i.ytimg.com/vi/WZnO3KWQT9c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WZnO3KWQT9c">VS code Make Your Work EZ as It Should Be</a><br/>Jan 9, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
