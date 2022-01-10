@@ -24,7 +24,7 @@ jobs:
        <img width="150px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
        </a>
        </td>$newline<td>
-       <h3 color="#333"><a href="$url">$title</a></h3>
+       <h3 color="#333">$title</h3>
        <br/>
        <small color="#888" display="block" margin-top="5px" margin-bottom="8px">$date<small>
        </td>
