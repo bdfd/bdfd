@@ -18,7 +18,7 @@ name: GitHub Activity Workflow
 
 on:
  schedule:
-  - cron: '*/30 * * * *'
+  - cron: '59 23 * * *'
  workflow_dispatch:
 
 jobs:

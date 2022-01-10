@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-10 13:43:38
+ * @LastEditTime: 2022-01-10 14:33:55
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -214,17 +214,11 @@ Last Updated on 10/01/2022
 
 ##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/YouTube.svg" /> Latest Five Video on YouTube
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1p95V_NsFD4"><img width="140px" src="https://i.ytimg.com/vi/1p95V_NsFD4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1p95V_NsFD4">test4</a><br/>Jan 10, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_BFxlmZKH98"><img width="140px" src="https://i.ytimg.com/vi/_BFxlmZKH98/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_BFxlmZKH98">test3</a><br/>Jan 10, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=A8j64YQCTyk"><img width="140px" src="https://i.ytimg.com/vi/A8j64YQCTyk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=A8j64YQCTyk">test2</a><br/>Jan 10, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2nV7IpfS5J0"><img width="140px" src="https://i.ytimg.com/vi/2nV7IpfS5J0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2nV7IpfS5J0">test1</a><br/>Jan 10, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4e8SfP7txWQ"><img width="140px" src="https://i.ytimg.com/vi/4e8SfP7txWQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4e8SfP7txWQ">Vorspann</a><br/>Jan 10, 2022</td></tr></table>
+<div  align="center">
+<!-- YOUTUBE:START -->
+
 <!-- YOUTUBE:END -->
+</div>
 
 ➡️ [more videos...][youtube]
 
@@ -234,13 +228,14 @@ Last Updated on 10/01/2022
 
 ##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Medium.svg" /> Latest Three Post on Medium
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/0" alt="Recent Article 1">
-</a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1" alt="Recent Article 2">
-</a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/2" alt="Recent Article 3">
-</a>
-<br>
+<div align="center">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/0" alt="Recent Article 1">
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1" alt="Recent Article 2">
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/2" alt="Recent Article 3">
+  </a>
+</div>
 
 <!-- Ref Link For Medium Post:https://github.com/bxcodec/github-readme-medium-recent-article#getting-started -->
 
@@ -257,13 +252,9 @@ Last Updated on 10/01/2022
 
 ➡️ [more blog posts...][website]
 
----
-
-### ⚡ Endrose Section
-
+<!-- ### ⚡ Endrose Section -->
 <!--START_SECTION:endorsements-->
-
-<!--END_SECTION:endorsements-->
+<!-- END_SECTION:endorsements -->
 
 ---
 
