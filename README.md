@@ -214,13 +214,10 @@ Last Updated on 10/01/2022
 
 ##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/YouTube.svg" /> Latest Three Video on YouTube
 
-<!-- YOUTUBE:START -->&nbsp&nbsp&nbsp<table> <tr> <td> <a href="https://www.youtube.com/watch?v=1p95V_NsFD4"> <img width="150px" src="https://i.ytimg.com/vi/1p95V_NsFD4/mqdefault.jpg"> </a> </td>
-<td> <h3 color="#333">2Post Profile</h3> <br/> <small color="#888" display="block" margin-top="5px" margin-bottom="8px">Jan 10, 2022<small> </td> </tr> </table>
-&nbsp&nbsp&nbsp<table> <tr> <td> <a href="https://www.youtube.com/watch?v=_BFxlmZKH98"> <img width="150px" src="https://i.ytimg.com/vi/_BFxlmZKH98/mqdefault.jpg"> </a> </td>
-<td> <h3 color="#333">1Post Profile</h3> <br/> <small color="#888" display="block" margin-top="5px" margin-bottom="8px">Jan 10, 2022<small> </td> </tr> </table>
-&nbsp&nbsp&nbsp<table> <tr> <td> <a href="https://www.youtube.com/watch?v=A8j64YQCTyk"> <img width="150px" src="https://i.ytimg.com/vi/A8j64YQCTyk/mqdefault.jpg"> </a> </td>
-<td> <h3 color="#333">Test</h3> <br/> <small color="#888" display="block" margin-top="5px" margin-bottom="8px">Jan 10, 2022<small> </td> </tr> </table>
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><table> <tr> <td> <a href="https://www.youtube.com/watch?v=1p95V_NsFD4"> <img width="150px" src="https://i.ytimg.com/vi/1p95V_NsFD4/mqdefault.jpg"> </a> </td>
+<td> <h3 color="#333">2Post Profile</h3> <br/> <small color="#888" display="block" margin-top="5px" margin-bottom="8px">Jan 10, 2022<small> </td> </tr> </table><table> <tr> <td> <a href="https://www.youtube.com/watch?v=_BFxlmZKH98"> <img width="150px" src="https://i.ytimg.com/vi/_BFxlmZKH98/mqdefault.jpg"> </a> </td>
+<td> <h3 color="#333">1Post Profile</h3> <br/> <small color="#888" display="block" margin-top="5px" margin-bottom="8px">Jan 10, 2022<small> </td> </tr> </table><table> <tr> <td> <a href="https://www.youtube.com/watch?v=A8j64YQCTyk"> <img width="150px" src="https://i.ytimg.com/vi/A8j64YQCTyk/mqdefault.jpg"> </a> </td>
+<td> <h3 color="#333">Test</h3> <br/> <small color="#888" display="block" margin-top="5px" margin-bottom="8px">Jan 10, 2022<small> </td> </tr> </table><!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
 
