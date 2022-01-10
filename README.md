@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-09 19:06:32
+ * @LastEditTime: 2022-01-09 19:34:02
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -79,10 +79,10 @@
 </div>
 <div>
   <a href="https://github.com/bdfd/Project01_Resume_Blog_Template">
-    <img height=170 src="https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight" alt="bdfd github status board"  />
+    <img height=160 src="https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight" alt="bdfd github status board"  />
   </a>
   <a href="https://github.com/bdfd/Project02_Leetcode_SQL_All_Solution">
-    <img height=170 alt="bdfd most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&theme=react&border=61dafb&hide_border=true" />
+    <img height=160 alt="bdfd most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&theme=react&border=61dafb&hide_border=true" />
   </a>
 <div>
 
