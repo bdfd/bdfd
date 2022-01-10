@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-09 16:07:28
+ * @LastEditTime: 2022-01-09 19:06:32
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -70,12 +70,21 @@
 
 ##### 📊 Detail Github Status
 
-<a href="https://github.com/bdfd/Project01_Resume_Blog_Template">
-    <img src="https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight" alt="bdfd github status board"  />
+<div>
+  <img src="https://badges.pufler.dev/years/bdfd" alt="Years Badge"  />
+  <img src="https://badges.pufler.dev/repos/bdfd" alt="Repos Badge"  />
+  <img src="https://badges.pufler.dev/commits/monthly/bdfd" alt="Updated
+   Badge"  />
+
+</div>
+<div>
+  <a href="https://github.com/bdfd/Project01_Resume_Blog_Template">
+    <img height=170 src="https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight" alt="bdfd github status board"  />
   </a>
   <a href="https://github.com/bdfd/Project02_Leetcode_SQL_All_Solution">
-    <img alt="bdfd most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&theme=react&border=61dafb&hide_border=true" />
+    <img height=170 alt="bdfd most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&theme=react&border=61dafb&hide_border=true" />
   </a>
+<div>
 
 <details>
   <summary>Github Activity</summary>
@@ -202,10 +211,9 @@ Last Updated on 09/01/2022
 
 ---
 
-<!-- <br>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/0" alt="Recent Article 0"></a>
+<!--
 <br>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1" alt="Recent Article 1"></a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1" alt="Recent Article 2"></a>
 <br>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2" alt="Recent Article 2"></a>
 <br> -->
@@ -244,14 +252,14 @@ Last Updated on 09/01/2022
 
 [website]: https://dc-personal-portfolio.herokuapp.com/
 [gmail]: mailto:bdfd2005@gmail.com
-[twitter]: https://github.com/bdfd
-[youtube]: https://github.com/bdfd
-[medium]: https://github.com/bdfd
-[instagram]: https://github.com/bdfd
 [linkedin]: https://github.com/bdfd
 [facebook]: https://github.com/bdfd
-[webdevplaylist]: https://github.com/bdfd
-[github repo]: https://github.com/bdfd
+[twitter]: https://github.com/bdfd
+[instagram]: https://github.com/bdfd
 [stack-overflow]: https://github.com/bdfd
+[youtube]: https://github.com/bdfd
+[medium]: https://github.com/bdfd
+[dev.to]: https://github.com/bdfd
+[github repo]: https://github.com/bdfd
 
-Last Update: 2020-01-08
+Last Update: 2020-01-09
