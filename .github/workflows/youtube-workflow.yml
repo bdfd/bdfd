@@ -16,12 +16,12 @@ jobs:
       feed_list: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCQsSGjaOtBIjUc9MampMYXA'
       custom_tags: 'channelId/yt:channelId/,videoId/yt:videoId/'
       date_format: 'mmm d, yyyy'
-      max_post_count: 4
+      max_post_count: 3
       template: '<table>
        <tr>
        <td>
        <a href="$url">
-       <img width="200px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
+       <img width="150px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
        </a>
        </td>$newline<td>
        <a href="$url">$title</a>
