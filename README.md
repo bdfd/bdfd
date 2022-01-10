@@ -221,8 +221,7 @@ Last Updated on 09/01/2022
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [First Post](https://dev.to/bdfd/first-post-2gd1)
+- [First Post](https://dev.to/bdfd2005/first-post-2gd1)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
