@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-09 21:12:25
+ * @LastEditTime: 2022-01-09 21:46:11
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -266,17 +266,17 @@ Last Updated on 10/01/2022
 
 ---
 
-[website]: https://dc-personal-portfolio.herokuapp.com/
+[website]: https://www.dc-personal-portfolio.herokuapp.com/
 [gmail]: mailto:bdfd2005@gmail.com
 [linkedin]: https://www.linkedin.com/in/david-chen-52b87780/
-[youtube]: https://studio.youtube.com/channel/UCQsSGjaOtBIjUc9MampMYXA
-[medium]: https://medium.com/@bdfd2005
-[dev.to]: https://dev.to/bdfd2005
+[youtube]: https://www.youtube.com/channel/UCQsSGjaOtBIjUc9MampMYXA
+[medium]: https://www.medium.com/@bdfd2005
+[dev.to]: https://www.dev.to/bdfd2005
 [facebook]: https://www.facebook.com/profile.php?id=100077241511519
-[twitter]: https://twitter.com/bdfd2005
-[stack-overflow]: https://stackoverflow.com/users/14739081/bdfd2005
+[twitter]: https://www.twitter.com/bdfd2005
+[stack-overflow]: https://www.stackoverflow.com/users/14739081/bdfd2005
 [reddit]: https://www.reddit.com/user/bdfd2005
 [instagram]: https://www.instagram.com/bdfd2005
-[github repo]: https://github.com/bdfd
+[github repo]: https://www.github.com/bdfd
 
 Last Update: 2020-01-09
