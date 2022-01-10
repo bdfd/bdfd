@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-09 21:46:11
+ * @LastEditTime: 2022-01-09 22:00:03
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -266,7 +266,7 @@ Last Updated on 10/01/2022
 
 ---
 
-[website]: https://www.dc-personal-portfolio.herokuapp.com/
+[website]: https://dc-personal-portfolio.herokuapp.com/
 [gmail]: mailto:bdfd2005@gmail.com
 [linkedin]: https://www.linkedin.com/in/david-chen-52b87780/
 [youtube]: https://www.youtube.com/channel/UCQsSGjaOtBIjUc9MampMYXA
