@@ -1,7 +1,7 @@
 /*
  * @Author: BDFD
  * @Date: 2022-01-09 23:37:48
- * @LastEditTime: 2022-01-09 23:37:49
+ * @LastEditTime: 2022-01-09 23:47:11
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\scrape.js
@@ -83,7 +83,7 @@ function generateStuffInsideFences(data) {
   I would like to add you to my professional network on the GITHUB.
   <ul>
   ${renderedList}
-  <li><a href="https://github.com/sw-yx/sw-yx/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse new skill!</a></li>
+  <li><a href="https://github.com/bdfd/bdfd/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse new skill!</a></li>
   </ul>
   ${END_COMMENT}`;
 	return listWithFences;
