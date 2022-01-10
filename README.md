@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-09 20:24:45
+ * @LastEditTime: 2022-01-09 21:01:21
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -202,7 +202,7 @@ Last Updated on 10/01/2022
 
 ---
 
-### 📺 YouTube Videos
+### 📺 Stream/Video
 
 <!-- YOUTUBE:START -->
 
@@ -213,14 +213,23 @@ Last Updated on 10/01/2022
 
 ---
 
-<!--
-<br>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1" alt="Recent Article 2"></a>
-<br>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2" alt="Recent Article 2"></a>
-<br> -->
+### 📝 Blog Section
 
-### 📝 Latest Blog Posts
+##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Medium.svg" /> Latest Three Post on Medium
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/0" alt="Recent Article 1">
+</a>
+<br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1" alt="Recent Article 2">
+</a>
+<br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/2" alt="Recent Article 3">
+</a>
+<br>
+
+<!-- Ref Link For Medium Post:https://github.com/bxcodec/github-readme-medium-recent-article#getting-started -->
+
+##### <img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Dev.to.svg" /> Latest Five Blog Post on Dev.to
 
 <!-- BLOG-POST-LIST:START -->
 
