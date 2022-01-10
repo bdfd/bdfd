@@ -17,8 +17,7 @@ jobs:
       custom_tags: 'channelId/yt:channelId/,videoId/yt:videoId/'
       date_format: 'mmm d, yyyy'
       max_post_count: 3
-      template: 
-      '
+      template: '
       <svg fill="none" width="800" height="120" xmlns="http://www.w3.org/2000/svg">
         <foreignObject width="100%" height="100%">
           <div xmlns="http://www.w3.org/1999/xhtml">
@@ -105,5 +104,4 @@ jobs:
             </div>
           </div>
         </foreignObject>
-      </svg>  
-      '
+      </svg>'
