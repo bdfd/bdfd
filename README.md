@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-09 21:01:21
+ * @LastEditTime: 2022-01-09 21:12:25
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -202,7 +202,7 @@ Last Updated on 10/01/2022
 
 ---
 
-### 📺 Stream/Video
+### 📺 Stream/Media
 
 <!-- YOUTUBE:START -->
 
@@ -229,7 +229,7 @@ Last Updated on 10/01/2022
 
 <!-- Ref Link For Medium Post:https://github.com/bxcodec/github-readme-medium-recent-article#getting-started -->
 
-##### <img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Dev.to.svg" /> Latest Five Blog Post on Dev.to
+##### <img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Dev.to.svg" /> Latest Five Blog Post on dev. to
 
 <!-- BLOG-POST-LIST:START -->
 
