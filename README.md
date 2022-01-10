@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-10 13:19:55
+ * @LastEditTime: 2022-01-10 13:43:38
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -215,8 +215,6 @@ Last Updated on 10/01/2022
 ##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/YouTube.svg" /> Latest Five Video on YouTube
 
 <!-- YOUTUBE:START -->
-
-- [VS code Make Your Work EZ as It Should Be](https://www.youtube.com/watch?v=WZnO3KWQT9c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
