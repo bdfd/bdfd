@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-09 20:16:34
+ * @LastEditTime: 2022-01-09 20:24:45
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -237,7 +237,7 @@ Last Updated on 10/01/2022
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><i>KEEP AWESOME & STAY COOL!</i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-### Feel Free To Fork And Connect Me(<img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/3.Signature/BDFD.gif" alt="BDFD Signature" />) With Following Links :)
+### Feel Free To Fork And Connect Me<img height=30 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/3.Signature/BDFD.gif" alt="BDFD Signature" />With Following Social Meia :)
 
 </div>
 
@@ -245,28 +245,29 @@ Last Updated on 10/01/2022
 
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/My_Website.svg" />][website]
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/LinkedIn.svg" />][linkedin]
+[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/YouTube.svg" />][youtube]
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Medium.svg" />][medium]
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Dev.to.svg" />][dev.to]
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Facebook.svg" />][facebook]
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Twitter.svg" />][twitter]
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media/Stack_Overflow.svg" />][stack-overflow]
-[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media/Gmail.svg" />][reddit]
-[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media/Gmail.svg" />][instagram]
+[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Reddit.svg" />][reddit]
+[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Instagram.svg" />][instagram]
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media/Gmail.svg" />][gmail]
 
 ---
 
 [website]: https://dc-personal-portfolio.herokuapp.com/
 [gmail]: mailto:bdfd2005@gmail.com
-[linkedin]: https://github.com/bdfd
-[facebook]: https://github.com/bdfd
-[twitter]: https://github.com/bdfd
-[instagram]: https://github.com/bdfd
-[stack-overflow]: https://github.com/bdfd
-[youtube]: https://github.com/bdfd
-[medium]: https://github.com/bdfd
-[dev.to]: https://github.com/bdfd
+[linkedin]: https://www.linkedin.com/in/david-chen-52b87780/
+[youtube]: https://studio.youtube.com/channel/UCQsSGjaOtBIjUc9MampMYXA
+[medium]: https://medium.com/@bdfd2005
+[dev.to]: https://dev.to/bdfd2005
+[facebook]: https://www.facebook.com/profile.php?id=100077241511519
+[twitter]: https://twitter.com/bdfd2005
+[stack-overflow]: https://stackoverflow.com/users/14739081/bdfd2005
+[reddit]: https://www.reddit.com/user/bdfd2005
+[instagram]: https://www.instagram.com/bdfd2005
 [github repo]: https://github.com/bdfd
-[reddit]: https://github.com/bdfd
 
 Last Update: 2020-01-09
