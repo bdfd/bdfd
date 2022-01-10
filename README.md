@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-09 23:34:57
+ * @LastEditTime: 2022-01-10 13:19:55
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -97,9 +97,8 @@ And yet describe more here later on... Keep it update :D
 
 <details>
   <summary>Github Activity</summary>
-  <!--START_SECTION:activity-->
-1. 💪 Opened PR [#738](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/738) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#1](https://github.com/bdfd/1stProject/issues/1) in [bdfd/1stProject](https://github.com/bdfd/1stProject)
+<!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 </details>
 <details>
