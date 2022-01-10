@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-09 23:26:46
+ * @LastEditTime: 2022-01-09 23:34:57
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -250,6 +250,14 @@ Last Updated on 10/01/2022
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
+
+---
+
+### ⚡ Endrose Section
+
+<!--START_SECTION:endorsements-->
+
+<!--END_SECTION:endorsements-->
 
 ---
 
