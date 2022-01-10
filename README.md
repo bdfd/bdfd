@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-10 15:51:02
+ * @LastEditTime: 2022-01-10 16:49:33
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -212,7 +212,7 @@ Last Updated on 10/01/2022
 
 ### 📺 Stream/Media
 
-##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/YouTube.svg" /> Latest Five Video on YouTube
+##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/YouTube.svg" /> Latest Three Video on YouTube
 
 <!-- YOUTUBE:START --><div height="120px" display="flex" align-items="center"> <a height="118px" border="1px solid rgba(0,0,0,.2)" padding="10px 20px" border-radius="10px" background="rgb(255,255,255)" background="linear-gradient(60deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 47%, rgba(246,246,246,1) 50%, rgba(255,255,255,1) 53%, rgba(255,255,255,1) 100%)" background-size="600% 400%" animation="gradientBackground 3s ease infinite" overflow="hidden" text-overflow="ellipsis" display="flex" align-items="center" href="${url}" target="__blank"> <img margin-right="10px" width="150px" height="100%" text-decoration="none" color="inherit" object-fit="cover" src="https://i.ytimg.com/vi/1p95V_NsFD4/mqdefault.jpg"/> <div flex="1"> <h3 color="#333">2Post Profile</h3> <small color="#888" display="block" margin-top="5px" margin-bottom="8px">Jan 10, 2022</small> </div> </a> </div><div height="120px" display="flex" align-items="center"> <a height="118px" border="1px solid rgba(0,0,0,.2)" padding="10px 20px" border-radius="10px" background="rgb(255,255,255)" background="linear-gradient(60deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 47%, rgba(246,246,246,1) 50%, rgba(255,255,255,1) 53%, rgba(255,255,255,1) 100%)" background-size="600% 400%" animation="gradientBackground 3s ease infinite" overflow="hidden" text-overflow="ellipsis" display="flex" align-items="center" href="${url}" target="__blank"> <img margin-right="10px" width="150px" height="100%" text-decoration="none" color="inherit" object-fit="cover" src="https://i.ytimg.com/vi/_BFxlmZKH98/mqdefault.jpg"/> <div flex="1"> <h3 color="#333">1Post Profile</h3> <small color="#888" display="block" margin-top="5px" margin-bottom="8px">Jan 10, 2022</small> </div> </a> </div><div height="120px" display="flex" align-items="center"> <a height="118px" border="1px solid rgba(0,0,0,.2)" padding="10px 20px" border-radius="10px" background="rgb(255,255,255)" background="linear-gradient(60deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 47%, rgba(246,246,246,1) 50%, rgba(255,255,255,1) 53%, rgba(255,255,255,1) 100%)" background-size="600% 400%" animation="gradientBackground 3s ease infinite" overflow="hidden" text-overflow="ellipsis" display="flex" align-items="center" href="${url}" target="__blank"> <img margin-right="10px" width="150px" height="100%" text-decoration="none" color="inherit" object-fit="cover" src="https://i.ytimg.com/vi/A8j64YQCTyk/mqdefault.jpg"/> <div flex="1"> <h3 color="#333">Test</h3> <small color="#888" display="block" margin-top="5px" margin-bottom="8px">Jan 10, 2022</small> </div> </a> </div><!-- YOUTUBE:END -->
 
@@ -273,10 +273,10 @@ Last Updated on 10/01/2022
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Dev.to.svg" />][dev.to]
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Facebook.svg" />][facebook]
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Twitter.svg" />][twitter]
-[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media/Stack_Overflow.svg" />][stack-overflow]
+[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/stack-overflow.svg" />][stack-overflow]
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Reddit.svg" />][reddit]
 [<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Instagram.svg" />][instagram]
-[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media/Gmail.svg" />][gmail]
+[<img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Gmail.svg" />][gmail]
 
 ---
 
