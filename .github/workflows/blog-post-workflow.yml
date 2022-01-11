@@ -1,4 +1,4 @@
-name: Blog Post Workflow
+name: Dev.to Post Workflow
 on:
  schedule:
   - cron: '59 23 * * *'
@@ -13,4 +13,20 @@ jobs:
    - uses: gautamkrishnar/blog-post-workflow@master
      with:
       feed_list: 'https://dev.to/feed/bdfd2005'
+      date_format: 'mmm d, yyyy'
       max_post_count: 3
+      template: '<table>
+       <tr>
+       <td>
+       <a href="$url" target="__blank">
+       <h1 color="#333">$title</h1>
+       </a>
+       </td>$newline
+       <td>
+       <p>$description
+       </p>
+       <br/>
+       <small color="#888">$date<small>
+       </td>
+       </tr>
+       </table>''

@@ -1,4 +1,4 @@
-name: Youtube Workflow
+name: Medium Workflow
 on:
  schedule:
   - cron: '59 23 * * *'
