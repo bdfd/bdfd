@@ -19,11 +19,11 @@ jobs:
        <tr>
        <td>
        <a href="$url">
-       <strong>$randomEmoji(💯,🔥,💫,🚀,🌮) $title</strong>
+       <h1>$randomEmoji(💯,🔥,💫,🚀,🌮) $title</h1>
        </a>
        </td>
        <td >
-       <strong>$description</strong>
+       <h2 color="#333">$description</h2>
        <br/>
        <small color="#888">Post Date:$date
        <small>
