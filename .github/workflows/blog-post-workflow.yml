@@ -15,18 +15,19 @@ jobs:
       feed_list: 'https://dev.to/feed/bdfd2005'
       date_format: 'mmm d, yyyy'
       max_post_count: 3
-      template: '<table>
+      template: '<table style="border: 1px solid black">
        <tr>
        <td>
        <a href="$url" target="__blank">
-       <h1 color="#333">$title</h1>
+       <h1 color="#333">$randomEmoji(💯,🔥,💫,🚀,🌮) $title</h1>
        </a>
        </td>$newline
        <td>
-       <p>$description
+       <p color="#333">$description
        </p>
-       <br/>
-       <small color="#888">$date<small>
+       </br>
+       <small color="#888">Post Date:$date
+       </small>
        </td>
        </tr>
-       </table>''
+       </table>'
