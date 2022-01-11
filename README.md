@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-10 17:03:39
+ * @LastEditTime: 2022-01-11 12:37:29
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -111,62 +111,62 @@ And yet describe more here later on... Keep it update :D
 [![contribution-record](https://activity-graph.herokuapp.com/graph?username=bdfd&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/bdfd)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.03% 
-🌆 Daytime    470 commits    ████████████░░░░░░░░░░░░░   48.76% 
-🌃 Evening    283 commits    ███████░░░░░░░░░░░░░░░░░░   29.36% 
+🌞 Morning    116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.03%
+🌆 Daytime    470 commits    ████████████░░░░░░░░░░░░░   48.76%
+🌃 Evening    283 commits    ███████░░░░░░░░░░░░░░░░░░   29.36%
 🌙 Night      95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.85%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday       157 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.29% 
-Tuesday      132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
-Wednesday    160 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.6% 
-Thursday     125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.97% 
-Friday       140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
-Saturday     131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
+Monday       157 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.29%
+Tuesday      132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.69%
+Wednesday    160 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.6%
+Thursday     125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.97%
+Friday       140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.52%
+Saturday     131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59%
 Sunday       119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.34%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: America/Toronto
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   33.33%
+TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
 Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
 
 ```
 
+Last Updated on 11/01/2022
 
-
- Last Updated on 11/01/2022
 <!--END_SECTION:waka-->
 
 ## </details>
@@ -212,7 +212,11 @@ Python                   4 repos             ███░░░░░░░░�
 
 ##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/YouTube.svg" /> Latest Three Video on YouTube
 
-<!-- YOUTUBE:START --><br><div style=height:120px;display:flex;align-items:center><a style="display:flex;align-items:center;text-decoration:none;height:118px;border:1px solid rgba(0,0,0,.2);padding:10px 20px;border-radius:10px" href="https://www.youtube.com/v/_BFxlmZKH98?version=3" target=__blank><img style=margin-right:10px;width:150px;height:100%;object-fit:cover src="https://i4.ytimg.com/vi/_BFxlmZKH98/hqdefault.jpg"><div style=flex:1><h3 style=color:#333>Hello World Msg From BDFD From Post 2</h3><small style=color:#888;display:block;margin-top:5px;margin-bottom:8px>Jan, 10, 2022</small></div></a></div><br><div style=height:120px;display:flex;align-items:center><a style="display:flex;align-items:center;text-decoration:none;height:118px;border:1px solid rgba(0,0,0,.2);padding:10px 20px;border-radius:10px" href="https://www.youtube.com/v/_BFxlmZKH98?version=3" target=__blank><img style=margin-right:10px;width:150px;height:100%;object-fit:cover src="https://i4.ytimg.com/vi/_BFxlmZKH98/hqdefault.jpg"><div style=flex:1><h3 style=color:#333>Hello World Msg From BDFD From Post 2</h3><small style=color:#888;display:block;margin-top:5px;margin-bottom:8px>Jan, 10, 2022</small></div></a></div><br><div style=height:120px;display:flex;align-items:center><a style="display:flex;align-items:center;text-decoration:none;height:118px;border:1px solid rgba(0,0,0,.2);padding:10px 20px;border-radius:10px" href="https://www.youtube.com/v/_BFxlmZKH98?version=3" target=__blank><img style=margin-right:10px;width:150px;height:100%;object-fit:cover src="https://i4.ytimg.com/vi/_BFxlmZKH98/hqdefault.jpg"><div style=flex:1><h3 style=color:#333>Hello World Msg From BDFD From Post 2</h3><small style=color:#888;display:block;margin-top:5px;margin-bottom:8px>Jan, 10, 2022</small></div></a></div><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+<!-- Locally Markdown Working Fine but not on Github Page
+<br><div style=height:120px;display:flex;align-items:center><a style="display:flex;align-items:center;text-decoration:none;height:118px;border:1px solid rgba(0,0,0,.2);padding:10px 20px;border-radius:10px" href="https://www.youtube.com/v/_BFxlmZKH98?version=3" target=__blank><img style=margin-right:10px;width:150px;height:100%;object-fit:cover src="https://i4.ytimg.com/vi/_BFxlmZKH98/hqdefault.jpg"><div style=flex:1><h3 style=color:#333>Hello World Msg From BDFD From Post 2</h3><small style=color:#888;display:block;margin-top:5px;margin-bottom:8px>Jan, 10, 2022</small></div></a></div><br><div style=height:120px;display:flex;align-items:center><a style="display:flex;align-items:center;text-decoration:none;height:118px;border:1px solid rgba(0,0,0,.2);padding:10px 20px;border-radius:10px" href="https://www.youtube.com/v/_BFxlmZKH98?version=3" target=__blank><img style=margin-right:10px;width:150px;height:100%;object-fit:cover src="https://i4.ytimg.com/vi/_BFxlmZKH98/hqdefault.jpg"><div style=flex:1><h3 style=color:#333>Hello World Msg From BDFD From Post 2</h3><small style=color:#888;display:block;margin-top:5px;margin-bottom:8px>Jan, 10, 2022</small></div></a></div><br><div style=height:120px;display:flex;align-items:center><a style="display:flex;align-items:center;text-decoration:none;height:118px;border:1px solid rgba(0,0,0,.2);padding:10px 20px;border-radius:10px" href="https://www.youtube.com/v/_BFxlmZKH98?version=3" target=__blank><img style=margin-right:10px;width:150px;height:100%;object-fit:cover src="https://i4.ytimg.com/vi/_BFxlmZKH98/hqdefault.jpg"><div style=flex:1><h3 style=color:#333>Hello World Msg From BDFD From Post 2</h3><small style=color:#888;display:block;margin-top:5px;margin-bottom:8px>Jan, 10, 2022</small></div></a></div>
+-->
 
 ➡️ [more videos...][youtube]
 
