@@ -13,3 +13,4 @@ jobs:
    - uses: gautamkrishnar/blog-post-workflow@master
      with:
       feed_list: 'https://dev.to/feed/bdfd2005'
+      max_post_count: 3
