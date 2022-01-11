@@ -17,16 +17,20 @@ jobs:
       custom_tags: 'channelId/yt:channelId/,videoId/yt:videoId/'
       date_format: 'mmm d, yyyy'
       max_post_count: 3
-      template: '<table>
+      template: '<table style="border: 1px solid black;width:800px">
        <tr>
-       <td>
-       <a href="$url" target="__blank">
-       <img width="150px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
+       <td style="width: 300px">
+       <a href=""$url"" target="__blank">
+       <img width="300px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
        </a>
-       </td>$newline<td>
-       <h1 color="#333">$title</h1>
+       </td>
+       <td style="width: 500px">
+       <h2 color="#333">$randomEmoji(💯,🔥,💫,🚀,🌮) $title</h2>
        <br/>
-       <small color="#888">$date<small>
+       <small color="#333">Description:$description
+       <small>
+       <small color="#888">Post Date:$date
+       <small>
        </td>
        </tr>
        </table>'
