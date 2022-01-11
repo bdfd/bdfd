@@ -212,7 +212,7 @@ Last Updated on 11/01/2022
 
 ##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/YouTube.svg" /> Latest Three Video on YouTube
 
-<div align="center">
+<div margin-left: "30px">
 <!-- YOUTUBE:START --><table style="border: 1px solid black;width:560px"> <tr> <td style="width: 160px"> <a href=""https://www.youtube.com/watch?v=1p95V_NsFD4"" target="__blank"> <img width="160px" src="https://i.ytimg.com/vi/1p95V_NsFD4/mqdefault.jpg"> </a> </td> <td style="width: 400px"> <h2 color="#333">🔥 2Post Profile</h2> <br/> <small color="#333">Description: <small> <small color="#888">Post Date:Jan 10, 2022 <small> </td> </tr> </table><table style="border: 1px solid black;width:560px"> <tr> <td style="width: 160px"> <a href=""https://www.youtube.com/watch?v=_BFxlmZKH98"" target="__blank"> <img width="160px" src="https://i.ytimg.com/vi/_BFxlmZKH98/mqdefault.jpg"> </a> </td> <td style="width: 400px"> <h2 color="#333">💯 1Post Profile</h2> <br/> <small color="#333">Description: <small> <small color="#888">Post Date:Jan 10, 2022 <small> </td> </tr> </table><table style="border: 1px solid black;width:560px"> <tr> <td style="width: 160px"> <a href=""https://www.youtube.com/watch?v=A8j64YQCTyk"" target="__blank"> <img width="160px" src="https://i.ytimg.com/vi/A8j64YQCTyk/mqdefault.jpg"> </a> </td> <td style="width: 400px"> <h2 color="#333">🔥 Test</h2> <br/> <small color="#333">Description: <small> <small color="#888">Post Date:Jan 10, 2022 <small> </td> </tr> </table><!-- YOUTUBE:END -->
 </div>
 <!-- Locally Markdown Working Fine but not on Github Page
