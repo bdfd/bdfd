@@ -238,7 +238,6 @@ Last Updated on 10/01/2022
 ##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Dev.to.svg" /> Latest Five Blog Post on dev. to
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Sixth Post](https://dev.to/bdfd2005/sixth-post-41om)
 - [Fifth Post](https://dev.to/bdfd2005/fifth-post-1eda)
 - [Fourth Post](https://dev.to/bdfd2005/fourth-post-2ci9)
