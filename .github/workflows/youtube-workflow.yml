@@ -20,11 +20,11 @@ jobs:
       template: '<table style="border: 1px solid black">
        <tr>
        <td style="width: 240px">
-       <a href=""$url"" target="__blank">
+       <a href="$url">
        <img width="240px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg">
        </a>
        </td>
-       <td style="width: 600px">
+       <td >
        <h2 color="#333">$randomEmoji(💯,🔥,💫,🚀,🌮) $title</h2>
        <br/>
        <small color="#888">Post Date:$date
