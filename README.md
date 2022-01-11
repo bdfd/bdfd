@@ -240,16 +240,13 @@ Last Updated on 11/01/2022
 
 ##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Dev.to.svg" /> Latest Five Blog Post on dev. to
 
-<!-- BLOG-POST-LIST:START --><table style="border: 1px solid black"> <tr> <td> <a href="https://dev.to/bdfd2005/sixth-post-41om"> <h1 color="#333">🔥 Sixth Post</h1> </a> </td>
- <td> <h5 color="#333">&lt;p&gt;test post for github page&lt;/p&gt;
+<!-- BLOG-POST-LIST:START --><table style="border: 1px solid black"> <tr> <td> <a href="https://dev.to/bdfd2005/sixth-post-41om"> <h3 color="#333">🔥 Sixth Post</h3> </a> </td> <td > <h5 color="#333">&lt;p&gt;test post for github page&lt;/p&gt;
 
- </h5> </br> <small color="#888">Post Date:Jan 10, 2022 </small> </td> </tr> </table><table style="border: 1px solid black"> <tr> <td> <a href="https://dev.to/bdfd2005/fifth-post-1eda"> <h1 color="#333">💯 Fifth Post</h1> </a> </td>
- <td> <h5 color="#333">&lt;p&gt;test post for github page&lt;/p&gt;
+</h5> <br/> <small color="#888">Post Date:Jan 10, 2022 <small> </td> </tr> </table><table style="border: 1px solid black"> <tr> <td> <a href="https://dev.to/bdfd2005/fifth-post-1eda"> <h3 color="#333">💯 Fifth Post</h3> </a> </td> <td > <h5 color="#333">&lt;p&gt;test post for github page&lt;/p&gt;
 
- </h5> </br> <small color="#888">Post Date:Jan 10, 2022 </small> </td> </tr> </table><table style="border: 1px solid black"> <tr> <td> <a href="https://dev.to/bdfd2005/fourth-post-2ci9"> <h1 color="#333">🔥 Fourth Post</h1> </a> </td>
- <td> <h5 color="#333">&lt;p&gt;test post for github page&lt;/p&gt;
+</h5> <br/> <small color="#888">Post Date:Jan 10, 2022 <small> </td> </tr> </table><table style="border: 1px solid black"> <tr> <td> <a href="https://dev.to/bdfd2005/fourth-post-2ci9"> <h3 color="#333">🔥 Fourth Post</h3> </a> </td> <td > <h5 color="#333">&lt;p&gt;test post for github page&lt;/p&gt;
 
- </h5> </br> <small color="#888">Post Date:Jan 10, 2022 </small> </td> </tr> </table><!-- BLOG-POST-LIST:END -->
+</h5> <br/> <small color="#888">Post Date:Jan 10, 2022 <small> </td> </tr> </table><!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
 
