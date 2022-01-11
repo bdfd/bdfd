@@ -17,7 +17,8 @@ jobs:
       custom_tags: 'channelId/yt:channelId/,videoId/yt:videoId/'
       date_format: 'mmm d, yyyy'
       max_post_count: 3
-      template: '<table style="border: 1px solid black;width:840px">
+      template:
+       '<table style="border: 1px solid black;width:840px;table-layout: fixed">
        <tr>
        <td style="width: 240px">
        <a href=""$url"" target="__blank">
