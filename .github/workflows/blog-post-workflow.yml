@@ -22,12 +22,28 @@ jobs:
        <h3 color="#333">$randomEmoji(💯,🔥,💫,🚀,🌮) $title</h3>
        </a>
        </td>
-       <td>
-       <h5 color="#333">$description
-       </h5>
-       </br>
+       <td >
+       <h5 color="#333">$description</h5>
+       <br/>
        <small color="#888">Post Date:$date
-       </small>
+       <small>
        </td>
        </tr>
        </table>'
+
+      # '<table style="border: 1px solid black">
+      #  <tr>
+      #  <td>
+      #  <a href="$url">
+      #  <h3 color="#333">$randomEmoji(💯,🔥,💫,🚀,🌮) $title</h3>
+      #  </a>
+      #  </td>
+      #  <td>
+      #  <h5 color="#333">$description
+      #  </h5>
+      #  </br>
+      #  <small color="#888">Post Date:$date
+      #  </small>
+      #  </td>
+      #  </tr>
+      #  </table>'
