@@ -242,13 +242,13 @@ https://github.com/alfari16/alfari16
 
 ##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Dev.to.svg" /> Latest Five Blog Post on dev. to
 
-<!-- BLOG-POST-LIST:START --><table style="border: 1px solid black"> <tr> <td> <a href="https://dev.to/bdfd2005/sixth-post-41om"> <h1>🔥 Sixth Post</h1> </a> </td> <td > <h2 color="#333">&lt;p&gt;test post for github page&lt;/p&gt;
+<!-- BLOG-POST-LIST:START --><table style="border: 1px solid black"> <tr> <td> 🔥 Sixth Post </td> <td ><a href="https://dev.to/bdfd2005/sixth-post-41om"> &lt;p&gt;test post for github page&lt;/p&gt;
 
-</h2> <br/> <small color="#888">Post Date:Jan 10, 2022 <small> </td> </tr> </table><table style="border: 1px solid black"> <tr> <td> <a href="https://dev.to/bdfd2005/fifth-post-1eda"> <h1>💯 Fifth Post</h1> </a> </td> <td > <h2 color="#333">&lt;p&gt;test post for github page&lt;/p&gt;
+</a> <br/> <small color="#888">Post Date:Jan 10, 2022 <small> </td> </tr> </table><table style="border: 1px solid black"> <tr> <td> 💯 Fifth Post </td> <td ><a href="https://dev.to/bdfd2005/fifth-post-1eda"> &lt;p&gt;test post for github page&lt;/p&gt;
 
-</h2> <br/> <small color="#888">Post Date:Jan 10, 2022 <small> </td> </tr> </table><table style="border: 1px solid black"> <tr> <td> <a href="https://dev.to/bdfd2005/fourth-post-2ci9"> <h1>🔥 Fourth Post</h1> </a> </td> <td > <h2 color="#333">&lt;p&gt;test post for github page&lt;/p&gt;
+</a> <br/> <small color="#888">Post Date:Jan 10, 2022 <small> </td> </tr> </table><table style="border: 1px solid black"> <tr> <td> 🔥 Fourth Post </td> <td ><a href="https://dev.to/bdfd2005/fourth-post-2ci9"> &lt;p&gt;test post for github page&lt;/p&gt;
 
-</h2> <br/> <small color="#888">Post Date:Jan 10, 2022 <small> </td> </tr> </table><!-- BLOG-POST-LIST:END -->
+</a> <br/> <small color="#888">Post Date:Jan 10, 2022 <small> </td> </tr> </table><!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][dev.to]
 
