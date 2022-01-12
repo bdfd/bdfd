@@ -18,12 +18,10 @@ jobs:
       template: '<table style="border: 1px solid black">
        <tr>
        <td>
-       <a href="$url">
        $randomEmoji(💯,🔥,💫,🚀,🌮) $title
-       </a>
        </td>
-       <td >
-       $description
+       <td ><a href="$url">
+       $description</a>
        <br/>
        <small color="#888">Post Date:$date
        <small>
