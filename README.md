@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-11 14:23:19
+ * @LastEditTime: 2022-01-12 14:27:54
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -227,9 +227,18 @@ Last Updated on 11/01/2022
 
 ##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Medium.svg" /> Latest Three Post on Medium
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/0" alt="Recent Article 0"></a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1" alt="Recent Article 0"></a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/2" alt="Recent Article 0"></a>
+
 ➡️ [more blog posts...][medium]
 
-<!-- Ref Link For Medium Post:https://github.com/bxcodec/github-readme-medium-recent-article#getting-started -->
+<!-- Ref Link For Medium Post:
+https://github.com/bxcodec/github-readme-medium-recent-article#getting-started
+https://github.com/alfari16/alfari16
+-->
 
 ##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Dev.to.svg" /> Latest Five Blog Post on dev. to
 
