@@ -184,7 +184,7 @@ Last Updated on 13/01/2022
 <details>
   <summary>View Feature Github Project</summary>
     <a href="https://github.com/bdfd/Img_Repo">
-      <img alt="Img Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Img_Repo&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+      <img alt="Img Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Awesome-Icon-Collector&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
     </a>
     <a href="https://github.com/bdfd/4.2_Jupyter-Notbook-Collection-File">
       <img alt="Repo 4.2" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=4.2_Jupyter-Notbook-Collection-File&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
