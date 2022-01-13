@@ -15,33 +15,20 @@ jobs:
       feed_list: 'https://dev.to/feed/bdfd2005'
       date_format: 'mmm d, yyyy'
       max_post_count: 3
-      template: '<table style="border: 1px solid black">
+      template: '
+       <table>
        <tr>
        <td>
-       $randomEmoji(💯,🔥,💫,🚀,🌮) $title
+       <a href="$url">
+       $randomEmoji(💯,🔥,💫,🚀,🌮)
+       <h1>$title
+       </h1>
+       </a>
        </td>
-       <td ><a href="$url">
-       $description</a>
-       <br/>
-       <small color="#888">Post Date:$date
-       <small>
+       $newline
+       <td>
+       Description: $description
+       <br/>Post Date: $date
        </td>
        </tr>
        </table>'
-
-      # '<table style="border: 1px solid black">
-      #  <tr>
-      #  <td>
-      #  <a href="$url">
-      #  <h3 color="#333">$randomEmoji(💯,🔥,💫,🚀,🌮) $title</h3>
-      #  </a>
-      #  </td>
-      #  <td>
-      #  <h5 color="#333">$description
-      #  </h5>
-      #  </br>
-      #  <small color="#888">Post Date:$date
-      #  </small>
-      #  </td>
-      #  </tr>
-      #  </table>'
