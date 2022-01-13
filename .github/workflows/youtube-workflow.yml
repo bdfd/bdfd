@@ -29,8 +29,8 @@ jobs:
        <td>
        <a href="$url">
        $randomEmoji(💯,🔥,💫,🚀,🌮)
-       <h1>$title
-       </h1>
+       <strong>$title
+       </strong>
        </a>
        <br/>Post Date:$date
        </td>
