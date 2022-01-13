@@ -80,10 +80,10 @@ And yet describe more here later on... Keep it update :D
 ##### 📊 Detail Github Status
 
 <div>
-  <img src="https://badges.pufler.dev/years/bdfd" alt="Years Badge"  />
-  <img src="https://badges.pufler.dev/repos/bdfd" alt="Repos Badge"  />
+  <img src="https://badges.pufler.dev/years/bdfd" alt="Years Badge"  /> 
+  <img src="https://badges.pufler.dev/repos/bdfd" alt="Repos Badge"  /> 
   <img src="https://badges.pufler.dev/commits/monthly/bdfd" alt="Updated
-   Badge"  />
+   Badge"  /> 
    <!--Ref Link(badge):https://pufler.dev/git-badges/-->
 </div>
 <div>
