@@ -19,16 +19,15 @@ jobs:
        <table>
        <tr>
        <td>
-       <a href="$url">
        $randomEmoji(💯,🔥,💫,🚀,🌮)
-       <h1>$title
-       </h1>
-       </a>
        </td>
        $newline
        <td>
-       Description: $description
+       <a href="$url">
+       <h1>Title: $title
+       </h1>
        <br/>Post Date: $date
+       </a>
        </td>
        </tr>
        </table>'
