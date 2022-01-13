@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-12 14:27:54
+ * @LastEditTime: 2022-01-12 21:53:33
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -111,62 +111,62 @@ And yet describe more here later on... Keep it update :D
 [![contribution-record](https://activity-graph.herokuapp.com/graph?username=bdfd&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/bdfd)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
-🌆 Daytime    485 commits    ████████████░░░░░░░░░░░░░   50.1% 
-🌃 Evening    275 commits    ███████░░░░░░░░░░░░░░░░░░   28.41% 
+🌞 Morning    117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.09%
+🌆 Daytime    485 commits    ████████████░░░░░░░░░░░░░   50.1%
+🌃 Evening    275 commits    ███████░░░░░░░░░░░░░░░░░░   28.41%
 🌙 Night      91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.4%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday       159 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
-Tuesday      160 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.53% 
-Wednesday    165 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
-Thursday     125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.91% 
-Friday       132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Saturday     108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
+Monday       159 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.43%
+Tuesday      160 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.53%
+Wednesday    165 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.05%
+Thursday     125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.91%
+Friday       132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.64%
+Saturday     108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.16%
 Sunday       119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.29%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: America/Toronto
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   33.33%
+TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
 Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
 
 ```
 
+Last Updated on 13/01/2022
 
-
- Last Updated on 13/01/2022
 <!--END_SECTION:waka-->
 
 ## </details>
@@ -230,27 +230,32 @@ Python                   4 repos             ███░░░░░░░░�
 
 ##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Medium.svg" /> Latest Three Post on Medium
 
+<div style="margin-left:25px">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/0" alt="Recent Article 0"></a>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1" alt="Recent Article 0"></a>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/2" alt="Recent Article 0"></a>
 
-➡️ [more blog posts...][medium]
+<div>
+
+➡️ [more blog posts on medium...][medium]
 
 <!-- Ref Link For Medium Post:
 https://github.com/bxcodec/github-readme-medium-recent-article#getting-started
 https://github.com/alfari16/alfari16
 -->
 
-##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Dev.to.svg" /> Latest Five Blog Post on dev. to
+##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Dev.to.svg" /> Latest Three Blog Post on dev. to
 
-<!-- BLOG-POST-LIST:START --><table> <tr> <td> <a href="https://dev.to/bdfd2005/sixth-post-41om"> Sixth Post </a> </td> 
+<div style="margin-left:25px">
+<!-- BLOG-POST-LIST:START --><table> <tr> <td> <a href="https://dev.to/bdfd2005/sixth-post-41om"> Sixth Post </a> </td>
  <td> Post Date:Jan 10, 2022 </td> </tr> </table><table> <tr> <td> <a href="https://dev.to/bdfd2005/fifth-post-1eda"> Fifth Post </a> </td> 
  <td> Post Date:Jan 10, 2022 </td> </tr> </table><table> <tr> <td> <a href="https://dev.to/bdfd2005/fourth-post-2ci9"> Fourth Post </a> </td> 
  <td> Post Date:Jan 10, 2022 </td> </tr> </table><!-- BLOG-POST-LIST:END -->
+</div>
 
-➡️ [more blog posts...][dev.to]
+➡️ [more blog posts dev.to...][dev.to]
 
 <!-- ### ⚡ Endrose Section -->
 <!--START_SECTION:endorsements-->
