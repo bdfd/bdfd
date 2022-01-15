@@ -232,9 +232,7 @@ Python                   4 repos             ███░░░░░░░░�
 
 <div style="margin-left:25px">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/0" alt="Recent Article 0"></a>
-
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/1" alt="Recent Article 0"></a>
-
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bdfd2005/2" alt="Recent Article 0"></a>
 
 <div>
