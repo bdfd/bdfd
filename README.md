@@ -244,9 +244,9 @@ https://github.com/alfari16/alfari16
 ##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/Dev.to.svg" /> Latest Three Blog Post on dev. to
 
 <div style="margin-left:25px">
-<!-- BLOG-POST-LIST:START --><table> <tr> <td> <a href="https://dev.to/bdfd2005/sixth-post-41om"> Sixth Post </a> </td> 
+<!-- BLOG-POST-LIST:START --><table> <tr> <td> <a href="https://dev.to/bdfd2005/100-common-verb-used-in-data-analysis-world-50j1"> 100 Common Verb used in Data Analysis World </a> </td> 
+ <td> Post Date:Jan 15, 2022 </td> </tr> </table><table> <tr> <td> <a href="https://dev.to/bdfd2005/sixth-post-41om"> Sixth Post </a> </td> 
  <td> Post Date:Jan 10, 2022 </td> </tr> </table><table> <tr> <td> <a href="https://dev.to/bdfd2005/fifth-post-1eda"> Fifth Post </a> </td> 
- <td> Post Date:Jan 10, 2022 </td> </tr> </table><table> <tr> <td> <a href="https://dev.to/bdfd2005/fourth-post-2ci9"> Fourth Post </a> </td> 
  <td> Post Date:Jan 10, 2022 </td> </tr> </table><!-- BLOG-POST-LIST:END -->
 </div>
 
