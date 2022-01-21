@@ -34,7 +34,7 @@
 <details>
   <summary><b>✨ More About Me</b></summary>
   <br/>
-I am a Developer with 3+ years of experience in developing applications and open-source software.
+I am a BI Developer and self-teach Software Developer with 3+ years of experience.
 
 And yet describe more here later on... Keep it update :D
 
