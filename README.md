@@ -175,10 +175,10 @@ Python                   4 repos             ███░░░░░░░░�
 
 <div align="center">
   <a href="https://github.com/bdfd/Project01_Resume_Blog_Template">
-    <img alt="Project 01" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Project01_Resume_Blog_Template&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+    <img alt="Project 01" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Data_Science_Cheat_Sheet&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
   </a>
   <a href="https://github.com/bdfd/Project02_Leetcode_SQL_All_Solution">
-    <img alt="Project 02" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Project02_Leetcode_SQL_All_Solution&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+    <img alt="Project 02" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Awesome_SQL_Question_Collector&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
   </a>
 </div>
 <details>
@@ -190,7 +190,7 @@ Python                   4 repos             ███░░░░░░░░�
       <img alt="Repo 4.2" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=4.2_Jupyter-Notbook-Collection-File&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
     </a>
     <a href="https://github.com/bdfd/4.3_Data_Science_Cheat_Sheet">
-      <img alt="Repo 4.3" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=4.3_Data_Science_Cheat_Sheet&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+      <img alt="Repo 4.3" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Resume_Blog_Template-Project01-&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
     </a>
     <a href="https://github.com/bdfd/4.5_Python-Zero2Hero-DS">
       <img alt="Repo 4.5" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=4.5_Python-Zero2Hero-DS&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
