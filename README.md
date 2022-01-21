@@ -182,7 +182,7 @@ Python                   4 repos             ███░░░░░░░░�
 </div>
 <details>
   <summary>View Feature Github Project</summary>
-<a href="https://github.com/bdfd/4.2_Jupyter-Notbook-Collection-File">
+    <a href="https://github.com/bdfd/4.2_Jupyter-Notbook-Collection-File">
       <img alt="Repo 4.2" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Awesome-Icon-Collector&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
     </a>
     <a href="https://github.com/bdfd/4.2_Jupyter-Notbook-Collection-File">
