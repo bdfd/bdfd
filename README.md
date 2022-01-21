@@ -28,9 +28,8 @@
 - 📄 Visit on [🌐 My Personal Portfolio][website]
 - ⏳ Currently exploring GCP & AWS
 - 🎯Life Hack: "Explore 🔥 and Explode 💣
-- 💬 Ask me about Node.js, and Vue.js
 - 📫 How to reach me at [My Gmail][gmail]
-- ❤️ Front End & Vue.js fanboy
+- ❤️ Explore and Learn something New
 
 <details>
   <summary><b>✨ More About Me</b></summary>
