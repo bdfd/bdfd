@@ -26,7 +26,7 @@
 - 🥅 2021 Goals: Contribute more on Github
 - 👯 I’m looking to collaborate with other
 - 📄 Visit on [🌐 My Personal Portfolio][website]
-- ⏳ Currently exploring GCP & AWS
+- ⏳ Currently exploring Python, Tensorflow, Machine Learning
 - 🎯Life Hack: "Explore 🔥 and Explode 💣
 - 📫 How to reach me at [My Gmail][gmail]
 - ❤️ Explore and Learn something New
