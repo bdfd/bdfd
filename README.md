@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-06 17:50:38
- * @LastEditTime: 2022-01-12 21:53:33
+ * @LastEditTime: 2022-02-10 13:07:58
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \bdfd\README.md
@@ -86,12 +86,8 @@ And yet describe more here later on... Keep it update :D
    <!--Ref Link(badge):https://pufler.dev/git-badges/-->
 </div>
 <div>
-  <a href="https://github.com/bdfd/Project01_Resume_Blog_Template">
     <img height=160 src="https://github-readme-stats.vercel.app/api?username=bdfd&show_icons=true&theme=tokyonight" alt="bdfd github status board"  />
-  </a>
-  <a href="https://github.com/bdfd/Project02_Leetcode_SQL_All_Solution">
     <img height=160 alt="bdfd most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=bdfd&theme=react&border=61dafb&hide_border=true" />
-  </a>
 <div>
 
 <details>
@@ -110,62 +106,62 @@ And yet describe more here later on... Keep it update :D
 [![contribution-record](https://activity-graph.herokuapp.com/graph?username=bdfd&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/bdfd)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
-🌆 Daytime    664 commits    █████████████░░░░░░░░░░░░   53.38% 
-🌃 Evening    305 commits    ██████░░░░░░░░░░░░░░░░░░░   24.52% 
+🌞 Morning    162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.02%
+🌆 Daytime    664 commits    █████████████░░░░░░░░░░░░   53.38%
+🌃 Evening    305 commits    ██████░░░░░░░░░░░░░░░░░░░   24.52%
 🌙 Night      113 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.08%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday       184 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
-Tuesday      175 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
-Wednesday    207 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.64% 
-Thursday     230 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.49% 
-Friday       190 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.27% 
-Saturday     146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
+Monday       184 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.79%
+Tuesday      175 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.07%
+Wednesday    207 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.64%
+Thursday     230 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.49%
+Friday       190 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.27%
+Saturday     146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.74%
 Sunday       112 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.0%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: America/Toronto
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78% 
-Jupyter Notebook         7 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
-TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
-HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78%
+Jupyter Notebook         7 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.44%
+TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.44%
+HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
 
+Last Updated on 10/02/2022 00:26:00 UTC
 
-
- Last Updated on 10/02/2022 00:26:00 UTC
 <!--END_SECTION:waka-->
 
 ## </details>
@@ -173,33 +169,33 @@ Python                   4 repos             ██░░░░░░░░░�
 ##### 👩‍💻 View Feature Project at My Github
 
 <div align="center">
-  <a href="https://github.com/bdfd/Project01_Resume_Blog_Template">
+  <a href="https://github.com/bdfd/Data_Science_Cheat_Sheet">
     <img alt="Project 01" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Data_Science_Cheat_Sheet&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
   </a>
-  <a href="https://github.com/bdfd/Project02_Leetcode_SQL_All_Solution">
+  <a href="https://github.com/bdfd/Awesome_SQL_Interview_Killer">
     <img alt="Project 02" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Awesome_SQL_Question_Collector&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
   </a>
 </div>
 <details>
   <summary>View Feature Github Project</summary>
-    <a href="https://github.com/bdfd/4.2_Jupyter-Notbook-Collection-File">
+    <a href="https://github.com/bdfd/Awesome-Icon-Collector">
       <img alt="Repo 4.2" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Awesome-Icon-Collector&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
     </a>
-    <a href="https://github.com/bdfd/4.2_Jupyter-Notbook-Collection-File">
+    <a href="https://github.com/bdfd/Jupyter_Notebook_PlayGround">
       <img alt="Repo 4.2" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Jupyter_Notebook_PlayGround&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
     </a>
-    <a href="https://github.com/bdfd/4.3_Data_Science_Cheat_Sheet">
+    <a href="https://github.com/bdfd/Resume_Blog_Template-Project01-">
       <img alt="Repo 4.3" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=Resume_Blog_Template-Project01-&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
     </a>
-    <a href="https://github.com/bdfd/4.5_Python-Zero2Hero-DS">
+    <a href="https://github.com/bdfd/Python_Zero2Hero_DS">
       <img alt="Repo 4.5" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=4.5_Python-Zero2Hero-DS&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
     </a>
-    <a href="https://github.com/bdfd/3.9_Coursera_IBM-Data-Analyst-Professional-Certificate">
+    <!-- <a href="https://github.com/bdfd/3.9_Coursera_IBM-Data-Analyst-Professional-Certificate">
       <img alt="Repo 3.9" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=3.9_Coursera_IBM-Data-Analyst-Professional-Certificate&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
     </a>
     <a href="https://github.com/bdfd/3.10_Coursera_Google-Data-Analytics-Professional-Certificate">
       <img alt="Repo 3.10" src="https://github-readme-stats.vercel.app/api/pin/?username=bdfd&repo=3.10_Coursera_Google-Data-Analytics-Professional-Certificate&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
-    </a>
+    </a> -->
 </details>
 <details>
   <summary>Contribute on Following Github Project</summary>
