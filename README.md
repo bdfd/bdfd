@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" />
   <img src="https://komarev.com/ghpvc/?username=bdfd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" />
   <img src="https://visitor-badge.glitch.me/badge?page_id=bdfd.bdfd" alt="Profile Visitor"/>
-  <a href="https://dc-personal-portfolio.herokuapp.com/" target="_blank">  
+  <a href="https://www.bdfdportfolio.tk/" target="_blank">  
     <img src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/Personal_Website.svg" />
   </a>
 </p>
