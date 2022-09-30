@@ -287,7 +287,7 @@ https://github.com/alfari16/alfari16
 
 ---
 
-[website]: https://dc-personal-portfolio.herokuapp.com/
+[website]: https://www.bdfdportfolio.com/
 [gmail]: mailto:bdfd2005@gmail.com
 [linkedin]: https://www.linkedin.com/in/david-chen-52b87780/
 [youtube]: https://www.youtube.com/channel/UCQsSGjaOtBIjUc9MampMYXA
