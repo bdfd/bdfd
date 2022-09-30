@@ -20,7 +20,7 @@
 
 <img align="right" alt="Keep Learning" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif"/>
 
-### I Am Currently Work Toward Data Scientist!!
+### I Am Currently Work Toward Python Developer and Data Scientist!!
 
 - 🔭 Currently learning 🤣Data Science
 - 🥅 2021 Goals: Contribute more on Github
@@ -287,7 +287,7 @@ https://github.com/alfari16/alfari16
 
 ---
 
-[website]: https://www.bdfdportfolio.com/
+[website]: https://www.bdfdportfolio.tk/
 [gmail]: mailto:bdfd2005@gmail.com
 [linkedin]: https://www.linkedin.com/in/david-chen-52b87780/
 [youtube]: https://www.youtube.com/channel/UCQsSGjaOtBIjUc9MampMYXA
