@@ -106,64 +106,64 @@ And yet describe more here later on... Keep it update :D
 [![contribution-record](https://activity-graph.herokuapp.com/graph?username=bdfd&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/bdfd)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    292 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
-🌆 Daytime    1126 commits   ██████████████░░░░░░░░░░░   59.2% 
-🌃 Evening    361 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.98% 
+🌞 Morning    292 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.35%
+🌆 Daytime    1126 commits   ██████████████░░░░░░░░░░░   59.2%
+🌃 Evening    361 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.98%
 🌙 Night      123 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   6.47%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday       242 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
-Tuesday      281 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.77% 
-Wednesday    412 commits    █████░░░░░░░░░░░░░░░░░░░░   21.66% 
-Thursday     402 commits    █████░░░░░░░░░░░░░░░░░░░░   21.14% 
-Friday       288 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.14% 
-Saturday     158 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.31% 
+Monday       242 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.72%
+Tuesday      281 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.77%
+Wednesday    412 commits    █████░░░░░░░░░░░░░░░░░░░░   21.66%
+Thursday     402 commits    █████░░░░░░░░░░░░░░░░░░░░   21.14%
+Friday       288 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.14%
+Saturday     158 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.31%
 Sunday       119 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   6.26%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: America/Toronto
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49% 
-Jupyter Notebook         12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49% 
-HTML                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49% 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49%
+Jupyter Notebook         12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49%
+HTML                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49%
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
 
 ```
 
+Last Updated on 30/09/2022 01:10:32 UTC
 
-
- Last Updated on 30/09/2022 01:10:32 UTC
 <!--END_SECTION:waka-->
 
 ## </details>
@@ -210,11 +210,14 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ##### <img height=18 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Social_Media_Shields/YouTube.svg" /> Latest Three Video on YouTube
 
 <div style="margin-left:25px">
-<!-- YOUTUBE:START --><table> <tr> <td> <a href="https://www.youtube.com/watch?v=1p95V_NsFD4"> <img width="140px" src="https://i.ytimg.com/vi/1p95V_NsFD4/mqdefault.jpg"> </a> </td> 
+<!-- YOUTUBE:START -->
+<table> <tr> <td> <a href="https://www.youtube.com/watch?v=1p95V_NsFD4"> <img width="140px" src="https://i.ytimg.com/vi/1p95V_NsFD4/mqdefault.jpg"> </a> </td>
  <td> <a href="https://www.youtube.com/watch?v=1p95V_NsFD4"> 🔥 <strong>2Post Profile </strong> </a> <br/>Post Date:Jan 10, 2022 </td> </tr> </table><table> <tr> <td> <a href="https://www.youtube.com/watch?v=_BFxlmZKH98"> <img width="140px" src="https://i.ytimg.com/vi/_BFxlmZKH98/mqdefault.jpg"> </a> </td> 
  <td> <a href="https://www.youtube.com/watch?v=_BFxlmZKH98"> 💯 <strong>1Post Profile </strong> </a> <br/>Post Date:Jan 10, 2022 </td> </tr> </table><table> <tr> <td> <a href="https://www.youtube.com/watch?v=A8j64YQCTyk"> <img width="140px" src="https://i.ytimg.com/vi/A8j64YQCTyk/mqdefault.jpg"> </a> </td> 
- <td> <a href="https://www.youtube.com/watch?v=A8j64YQCTyk"> 🔥 <strong>Test </strong> </a> <br/>Post Date:Jan 10, 2022 </td> </tr> </table><!-- YOUTUBE:END -->
+ <td> <a href="https://www.youtube.com/watch?v=A8j64YQCTyk"> 🔥 <strong>Test </strong> </a> <br/>Post Date:Jan 10, 2022 </td> </tr> </table>
+ <!-- YOUTUBE:END -->
 </div>
+
 <!-- Locally Markdown Working Fine but not on Github Page
 <br><div style=height:120px;display:flex;align-items:center><a style="display:flex;align-items:center;text-decoration:none;height:118px;border:1px solid rgba(0,0,0,.2);padding:10px 20px;border-radius:10px" href="https://www.youtube.com/v/_BFxlmZKH98?version=3" target=__blank><img style=margin-right:10px;width:150px;height:100%;object-fit:cover src="https://i4.ytimg.com/vi/_BFxlmZKH98/hqdefault.jpg"><div style=flex:1><h3 style=color:#333>Hello World Msg From BDFD From Post 2</h3><small style=color:#888;display:block;margin-top:5px;margin-bottom:8px>Jan, 10, 2022</small></div></a></div><br><div style=height:120px;display:flex;align-items:center><a style="display:flex;align-items:center;text-decoration:none;height:118px;border:1px solid rgba(0,0,0,.2);padding:10px 20px;border-radius:10px" href="https://www.youtube.com/v/_BFxlmZKH98?version=3" target=__blank><img style=margin-right:10px;width:150px;height:100%;object-fit:cover src="https://i4.ytimg.com/vi/_BFxlmZKH98/hqdefault.jpg"><div style=flex:1><h3 style=color:#333>Hello World Msg From BDFD From Post 2</h3><small style=color:#888;display:block;margin-top:5px;margin-bottom:8px>Jan, 10, 2022</small></div></a></div><br><div style=height:120px;display:flex;align-items:center><a style="display:flex;align-items:center;text-decoration:none;height:118px;border:1px solid rgba(0,0,0,.2);padding:10px 20px;border-radius:10px" href="https://www.youtube.com/v/_BFxlmZKH98?version=3" target=__blank><img style=margin-right:10px;width:150px;height:100%;object-fit:cover src="https://i4.ytimg.com/vi/_BFxlmZKH98/hqdefault.jpg"><div style=flex:1><h3 style=color:#333>Hello World Msg From BDFD From Post 2</h3><small style=color:#888;display:block;margin-top:5px;margin-bottom:8px>Jan, 10, 2022</small></div></a></div>
 -->
@@ -297,4 +300,4 @@ https://github.com/alfari16/alfari16
 [instagram]: https://www.instagram.com/bdfd2005
 [github repo]: https://www.github.com/bdfd
 
-Last Update: 2020-01-21
+Last Update: 2022-09-20
