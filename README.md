@@ -20,10 +20,10 @@
 
 <img align="right" alt="Keep Learning" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif"/>
 
-### I Am Currently Work Toward Python Developer and Data Scientist!!
+### I Am Currently Work Toward Data Scientist and Data Engineer!!
 
 - 🔭 Currently learning 🤣Data Science
-- 🥅 2021 Goals: Contribute more on Github
+- 🥅 2022 Goals: Contribute more on Github
 - 👯 I’m looking to collaborate with other
 - 📄 Visit on [🌐 My Personal Portfolio][website]
 - ⏳ Currently exploring Python, Tensorflow, Machine Learning
@@ -34,9 +34,13 @@
 <details>
   <summary><b>✨ More About Me</b></summary>
   <br/>
-I am a BI Developer and self-teach Software Developer with 3+ years of experience.
+I am a  Python Developer and Cloud Devops with 3+ years of experience.
 
-And yet describe more here later on... Keep it update :D
+A Freelancer Full-Stack Developer & Devops have been planning and executing over 100+ customer and 200+ projects.
+
+- Vast knowledge in both digital solutions and business development is the foundation on which we help startups and individuals achieve their goals.
+- Transform requirement clearly and delivering results which are creative, business savvy and of uncompromising quality.
+- Provide our customers with a full services include full-stack applications development , and follow-up montly server maintainance and more...
 
 </details>
 
@@ -106,64 +110,64 @@ And yet describe more here later on... Keep it update :D
 [![contribution-record](https://activity-graph.herokuapp.com/graph?username=bdfd&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/bdfd)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    298 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
-🌆 Daytime    1146 commits   ███████████████░░░░░░░░░░   59.56% 
-🌃 Evening    357 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.56% 
+🌞 Morning    298 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.49%
+🌆 Daytime    1146 commits   ███████████████░░░░░░░░░░   59.56%
+🌃 Evening    357 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.56%
 🌙 Night      123 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   6.39%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday       245 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-Tuesday      298 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
-Wednesday    412 commits    █████░░░░░░░░░░░░░░░░░░░░   21.41% 
-Thursday     402 commits    █████░░░░░░░░░░░░░░░░░░░░   20.89% 
-Friday       294 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
-Saturday     158 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
+Monday       245 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.73%
+Tuesday      298 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.49%
+Wednesday    412 commits    █████░░░░░░░░░░░░░░░░░░░░   21.41%
+Thursday     402 commits    █████░░░░░░░░░░░░░░░░░░░░   20.89%
+Friday       294 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.28%
+Saturday     158 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.21%
 Sunday       115 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   5.98%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: America/Toronto
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49% 
-Jupyter Notebook         12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49% 
-HTML                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49% 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49%
+Jupyter Notebook         12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49%
+HTML                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49%
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
 
 ```
 
+Last Updated on 05/10/2022 00:58:51 UTC
 
-
- Last Updated on 05/10/2022 00:58:51 UTC
 <!--END_SECTION:waka-->
 
 ## </details>

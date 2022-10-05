@@ -2,7 +2,7 @@ name: Github Status Workflow
 
 on:
  schedule:
-  - cron: '59 23 * * *'
+  - cron: "59 23 * * 0"
  workflow_dispatch:
 jobs:
  update-readme:
