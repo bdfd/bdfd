@@ -23,7 +23,7 @@
 ### I Am Currently Work Toward Data Scientist and Data Engineer!!
 
 - 🔭 Currently learning 🤣Data Science
-- 🥅 2022 Goals: Contribute more on Github
+- 🥅 2025 Goals: Contribute more on Github
 - 👯 I’m looking to collaborate with other
 - 📄 Visit on [🌐 My Personal Portfolio][website]
 - ⏳ Currently exploring Python, Tensorflow, Machine Learning
