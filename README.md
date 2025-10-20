@@ -110,6 +110,45 @@ A Freelancer Full-Stack Developer & Devops have been planning and executing over
 [![contribution-record](https://activity-graph.herokuapp.com/graph?username=bdfd&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/bdfd)
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1701 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+🌆 Daytime                4703 commits        █████████████░░░░░░░░░░░░   53.53 % 
+🌃 Evening                1693 commits        █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+🌙 Night                  689 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1596 commits        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Tuesday                  1472 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Wednesday                1593 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Thursday                 1515 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Friday                   1283 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Saturday                 710 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Sunday                   617 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Toronto
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -123,7 +162,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2025 01:15:38 UTC
+ Last Updated on 20/10/2025 01:17:08 UTC
 <!--END_SECTION:waka-->
 
 ## </details>
