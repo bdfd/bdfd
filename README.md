@@ -113,21 +113,21 @@ A Freelancer Full-Stack Developer & Devops have been planning and executing over
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1704 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-🌆 Daytime                4688 commits        █████████████░░░░░░░░░░░░   52.83 % 
-🌃 Evening                1781 commits        █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+🌞 Morning                1702 commits        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+🌆 Daytime                4676 commits        █████████████░░░░░░░░░░░░   52.68 % 
+🌃 Evening                1797 commits        █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
 🌙 Night                  701 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1596 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Tuesday                  1536 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Wednesday                1602 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Thursday                 1525 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Friday                   1271 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Saturday                 721 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Sunday                   623 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Monday                   1607 commits        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Tuesday                  1525 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Wednesday                1597 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Thursday                 1525 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Friday                   1270 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Saturday                 727 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Sunday                   625 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 ```
 
 
@@ -152,17 +152,17 @@ No Activity Tracked This Week
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         30 repos            █████████░░░░░░░░░░░░░░░░   37.97 % 
-HTML                     16 repos            █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Python                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Jupyter Notebook         30 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
+HTML                     17 repos            █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Python                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 ```
 
 
 
 
- Last Updated on 30/03/2026 02:05:53 UTC
+ Last Updated on 13/04/2026 02:15:56 UTC
 <!--END_SECTION:waka-->
 
 ## </details>
