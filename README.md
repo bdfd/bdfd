@@ -113,21 +113,21 @@ A Freelancer Full-Stack Developer & Devops have been planning and executing over
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1709 commits        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-🌆 Daytime                4721 commits        █████████████░░░░░░░░░░░░   52.78 % 
-🌃 Evening                1813 commits        █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-🌙 Night                  701 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+🌞 Morning                1701 commits        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+🌆 Daytime                4674 commits        █████████████░░░░░░░░░░░░   52.61 % 
+🌃 Evening                1817 commits        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+🌙 Night                  693 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1620 commits        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Tuesday                  1554 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Wednesday                1609 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Thursday                 1533 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Friday                   1278 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Saturday                 725 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Sunday                   625 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Monday                   1619 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Tuesday                  1539 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Wednesday                1600 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Thursday                 1525 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Friday                   1261 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Saturday                 717 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Sunday                   624 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 ```
 
 
@@ -152,17 +152,17 @@ No Activity Tracked This Week
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         30 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
-HTML                     17 repos            █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-Python                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Jupyter Notebook         30 repos            █████████░░░░░░░░░░░░░░░░   37.97 % 
+HTML                     16 repos            █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Python                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 ```
 
 
 
 
- Last Updated on 08/06/2026 03:33:20 UTC
+ Last Updated on 15/06/2026 03:45:26 UTC
 <!--END_SECTION:waka-->
 
 ## </details>
